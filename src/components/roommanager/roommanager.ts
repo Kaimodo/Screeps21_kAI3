@@ -29,28 +29,6 @@ export class RoomManager {
 
         RoomManager.buildMissingCreeps(room, roomMem);
 
-        // TODO Spaeter in scanRoom
-        // Build Roads
-        if (roomMem.techLevel>=5) {
-            const buildSource = roadBuilder.placeRoadSourceToSpawn(room);
-            if (buildSource === OK) {
-                // log.info("Created road from Sources to Spawn");
-            }
-            const buildS2S = roadBuilder.placeRoadSource2Source(room);
-            if (buildS2S === OK ) {
-                // log.info(`${Emoji.info} builded roads between sources`);
-            }
-            const buildController = roadBuilder.placeRoadControllerToSpawn(room);
-            if (buildController === OK) {
-                // log.info("Created road from Controller to Spawn");
-            }
-            if (Mem.roomState.extensions.length > 0) {
-                const buildExtension = roadBuilder.placeRoadSpawnToExtensions(room);
-                if (buildExtension === OK) {
-                    // log.info("Created road from Extension to Spawn");
-                }
-            }
-        }
 
         // Loop Creeps
         _.each(Mem.roomState.creeps, (creep: Creep) => {
@@ -159,7 +137,24 @@ export class RoomManager {
                     RoomManager.buildTower(room, roomMem, numTowersToBuild);
                 }
                 if(room.controller.level >= 4 && roomMem.techLevel >=5) {
+                    // TODO Road Tower / Storage
                     RoomManager.buildStorage(room, roomMem, numStoragesToBuild);
+                    const buildSource = roadBuilder.placeRoadSourceToSpawn(room);
+                    if (buildSource === OK) {
+                        // log.info("Created road from Sources to Spawn");
+                    }
+                    const buildS2S = roadBuilder.placeRoadSource2Source(room);
+                    if (buildS2S === OK ) {
+                        // log.info(`${Emoji.info} builded roads between sources`);
+                    }
+                    const buildController = roadBuilder.placeRoadControllerToSpawn(room);
+                    if (buildController === OK) {
+                        // log.info("Created road from Controller to Spawn");
+                    }
+                    const buildExtension = roadBuilder.placeRoadSpawnToExtensions(room);
+                    if (buildExtension === OK) {
+                        // log.info("Created road from Extension to Spawn");
+                    }
                 }
             }
         }
@@ -170,6 +165,7 @@ export class RoomManager {
             log.info(`[${Inscribe.color(`TL=${roomMem.techLevel} Mem:${Mem.m().memVersion}/${Mem.memoryVersion} M:${Mem.roomState.miners.length}/${roomMem.minerTasks.length} B:${Mem.roomState.builders.length}/${roomMem.desiredBuilders} S=${Mem.roomState.structures.length} Con=${Mem.roomState.containers.length}/${roomMem.containerPositions.length} Ext=${Mem.roomState.extensions.length}/${numExtensionToBuild} RoRe:${Mem.roomState.notRoadNeedingRepair.length} ExtA:${roomMem.extensionIdsAssigned.length} Eng:${roomMem.energyLevel} Tow:${Mem.roomState.towers.length}/${numTowersToBuild} St:${Mem.roomState.storages.length}/${numStoragesToBuild}`, "skyblue")}]`);
         }
     }
+    // TODO Export those
     private static getNumTowersToBuild(room: Room): number {
         if (room.controller != null) {
             switch (room.controller.level) {
