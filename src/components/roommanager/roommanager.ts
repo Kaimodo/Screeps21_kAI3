@@ -144,6 +144,7 @@ export class RoomManager {
 
         let numTowersToBuild = RoomManager.getNumTowersToBuild(room);
         let numExtensionToBuild = RoomManager.getNumExtensionsToBuild(room);
+        let numStoragesToBuild = RoomManager.getNumStoragesToBuild(room);
 
         roomMem.techLevel = RoomManager.getTechLevel(room, roomMem, numExtensionToBuild, numTowersToBuild);
         roomMem.energyLevel = RoomManager.getRoomEnergyLevel(room, roomMem);
@@ -161,11 +162,23 @@ export class RoomManager {
             roomMem.extensionIdsAssigned = [];
         }
         if (Game.time % 25 === 0) {
-            log.info(`[${Inscribe.color(`TL=${roomMem.techLevel} Mem:${Mem.m().memVersion}/${Mem.memoryVersion} M:${Mem.roomState.miners.length}/${roomMem.minerTasks.length} B:${Mem.roomState.builders.length}/${roomMem.desiredBuilders} S=${Mem.roomState.structures.length} Con=${Mem.roomState.containers.length}/${roomMem.containerPositions.length} Ext=${Mem.roomState.extensions.length}/${numExtensionToBuild} RoRe:${Mem.roomState.notRoadNeedingRepair.length} ExtA:${roomMem.extensionIdsAssigned.length} Eng:${roomMem.energyLevel} Tow:${Mem.roomState.towers.length}/${numTowersToBuild}`, "skyblue")}]`);
+            log.info(`[${Inscribe.color(`TL=${roomMem.techLevel} Mem:${Mem.m().memVersion}/${Mem.memoryVersion} M:${Mem.roomState.miners.length}/${roomMem.minerTasks.length} B:${Mem.roomState.builders.length}/${roomMem.desiredBuilders} S=${Mem.roomState.structures.length} Con=${Mem.roomState.containers.length}/${roomMem.containerPositions.length} Ext=${Mem.roomState.extensions.length}/${numExtensionToBuild} RoRe:${Mem.roomState.notRoadNeedingRepair.length} ExtA:${roomMem.extensionIdsAssigned.length} Eng:${roomMem.energyLevel} Tow:${Mem.roomState.towers.length}/${numTowersToBuild} St:${Mem.roomState.storages.length}/${numStoragesToBuild}`, "skyblue")}]`);
         }
     }
-    // TODO private static getNumStorages...
-    // TODO private static getOptimalStoragePosition
+    private static getNumStoragesToBuild(room: Room): number {
+        if (room.controller != null) {
+            switch (room.controller.level) {
+                case 2: return 0;
+                case 3: return 0;
+                case 4: return 1;
+                case 5: return 1;
+                case 6: return 1;
+                case 7: return 1;
+                case 8: return 1;
+            }
+        }
+        return 0;
+    }
     private static getNumTowersToBuild(room: Room): number {
         if (room.controller != null) {
             switch (room.controller.level) {
@@ -388,6 +401,86 @@ export class RoomManager {
             }
         }
     }
+
+    private static buildStorage(room: Room, roomMem: Mem.RoomMemory,  numStoragesToBuild: number) {
+        const extConstructionSites = room.find(FIND_MY_CONSTRUCTION_SITES, { filter: (structure: ConstructionSite) => (structure.structureType === STRUCTURE_STORAGE) });
+        const numStoragesBuilt = Mem.roomState.storages.length + extConstructionSites.length;
+        const numStoragesNeeded = numStoragesToBuild - numStoragesBuilt;
+
+        if (numStoragesNeeded > 0) {
+            const extPos: RoomPosition[] = [];
+            _.each(Mem.roomState.extensions, (storage: StructureStorage) => extPos.push(storage.pos));
+            _.each(extConstructionSites, (storage: ConstructionSite) => extPos.push(storage.pos));
+
+            // log.info(`numStoragesNeeded=${numStoragesNeeded}`);
+            const roomPos: RoomPosition | null = RoomManager.getOptimalStoragePosition(room, roomMem, extPos);
+            if (roomPos != null) {
+                const errCode = room.createConstructionSite(roomPos, STRUCTURE_STORAGE);
+                if (errCode === OK){
+                    log.info(`${Emoji.info}Created Storage at ${roomPos}`);
+                    return;
+                } else {
+                    log.error(`${Emoji.cross}ERROR: created Storage at ${roomPos} ${errCode}`);
+                }
+            } else {
+                log.error(`${Emoji.cross}ERROR: couldn't create more Storages`);
+            }
+        }
+    }
+    private static getOptimalStoragePosition(room: Room, roomMem: Mem.RoomMemory, storagePositions: RoomPosition[]): RoomPosition | null {
+        const sources = room.find(FIND_SOURCES);
+        const firstSpawn = RoomManager.getFirstSpawn(room);
+        if (firstSpawn == null) {
+            return null;
+        }
+
+        const maxRange = 6;
+        const choices: Mem.NodeChoice[] = [];
+        log.info(`finding optimal storage pos`);
+        for (let x = firstSpawn.pos.x - maxRange; x < firstSpawn.pos.x + maxRange; x++) {
+            for (let y = firstSpawn.pos.y - maxRange; y < firstSpawn.pos.y + maxRange; y++) {
+                const searchRoomPos: RoomPosition | null = room.getPositionAt(x, y);
+                if (searchRoomPos !== null) {
+                    const found: string = searchRoomPos.lookFor(LOOK_TERRAIN) as any;
+                    if (found != "wall") {
+                        let tooClose = false;
+                        let range = 0;
+                        _.each(sources, (source: Source) => {
+                            const rangeToSource = source.pos.getRangeTo(x, y);
+                            if (rangeToSource <= 3) {
+                                tooClose = true;
+                            }
+                            range += rangeToSource;
+                        });
+                        if (tooClose){
+                            continue;
+                        }
+
+                        const rangeToSpawn = firstSpawn.pos.getRangeTo(x, y);
+                        range += rangeToSpawn;
+                        if (rangeToSpawn <= 2){
+                            continue;
+                        }
+
+                        //log.info(`Choice is ${x}, ${y} == ${range}`);
+                        const choice: Mem.NodeChoice ={
+                            x, y, dist: range
+                        };
+                        choices.push(choice);
+                    }
+                }
+            }
+        }
+        const sortedChoices = _.sortBy(choices, (choice: Mem.NodeChoice) => choice.dist);
+        if (sortedChoices.length > 0) {
+            log.info(`Best choice is ${sortedChoices[0].x}, ${sortedChoices[0].y} == ${sortedChoices[0].dist}`);
+            const roomPos: RoomPosition | null = room.getPositionAt(sortedChoices[0].x, sortedChoices[0].y);
+            return roomPos;
+        }
+
+        return null;
+    }
+
     private static buildTower(room: Room, roomMem: Mem.RoomMemory,  numTowersToBuild: number) {
         const towConstructionSites = room.find(FIND_MY_CONSTRUCTION_SITES, { filter: (structure: ConstructionSite) => (structure.structureType === STRUCTURE_TOWER) });
         const numTowersBuilt = Mem.roomState.towers.length + towConstructionSites.length;
@@ -397,14 +490,14 @@ export class RoomManager {
             let towerPos: RoomPosition = RoomManager.findCenterOfStructs(room);
             const maxRange = 3;
             const choices: Mem.NodeChoice[] = [];
-            log.info(`${Emoji.info} finding optimal Pos for Towe`);
+            log.info(`${Emoji.info} finding optimal Pos for Tower`);
             for (let x: number = towerPos.x - maxRange; x < towerPos.x + maxRange; x++) {
                 for (let y: number = towerPos.y - maxRange; y < towerPos.y + maxRange; x++) {
                     const searchRoomPos: RoomPosition | null = room.getPositionAt(x, y);
                     if (searchRoomPos !== null) {
                         const found: string = searchRoomPos.lookFor(LOOK_TERRAIN) as any;
                         if (found != "wall") {
-                            let range =0;
+                            let range =2;
                             const choice: Mem.NodeChoice ={
                                 x, y, dist: range
                             };
