@@ -1,7 +1,9 @@
 
-# Screeps-Typescript-Starer-Modded
+# My screeps AI
 
 ![ ](https://screeps.com/images/logotype-animated.svg)
+
+This is my 3rd(i think so) attempt of an AI. i choose the Code from ([KarateSnoopy](https://github.com/KarateSnoopy/LetsPlayScreeps))'s Tutorial as base cause it is still al overwhelming to me. And with that i have a working base.
 
 # What me added
 
@@ -21,12 +23,19 @@ JS2Flow throws some errors in the way i use it. i couldn't find out how to use i
 
   Commands are defined in Consolecommands.ts
   Test if they work by typing in
+
   ```bash
   cc.test()
   ```
+
   in the Console.
 
-# This is a slightly modded Version, so it fits to my depends. Feel free to use it.
+## This is all WIP and there will be no guarantee that committed code is working ;)
+
+# Current state: WIP as of 16.11.2021
+
+- i added a different Street-building system, which is (as everything here) work in Progress.
+- I Will refract the Code cause in the actual state it's hard to read, at least for me.
 
 ## Helper
 
@@ -81,7 +90,7 @@ You can use `-cw` instead of `-c` to automatically re-run when your source code 
 
 Finally, there are also NPM scripts that serve as aliases for these commands in `package.json` for IDE integration. Running `npm run push-main` is equivalent to `rollup -c --environment DEST:main`, and `npm run watch-sim` is equivalent to `rollup -cw --dest sim`.
 
-#### Important! To upload code to a private server, you must have [screepsmod-auth](https://github.com/ScreepsMods/screepsmod-auth) installed and configured!
+#### Important! To upload code to a private server, you must have [screepsmod-auth](https://github.com/ScreepsMods/screepsmod-auth) installed and configured
 
 ## Typings
 
