@@ -1,5 +1,5 @@
 {
-  "name": "screeps-typescript-starter-modded",
+  "name": "Screeps21_kAI3",
   "version": "1.2.0",
   "description": "Screeps TS starter slightly modded",
   "main": "index.js",
@@ -27,14 +27,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kaimodo/screeps-typescript-starter-modded.git"
+    "url": "git+https://github.com/Kaimodo/Screeps21_kAI3.git"
   },
   "author": "",
   "license": "Unlicense",
   "bugs": {
-    "url": "https://github.com/Kaimodo/screeps-typescript-starter-modded/issues"
+    "url": "https://github.com/Kaimodo/Screeps21_kAI3/issues"
   },
-  "homepage": "https://github.com/Kaimodo/screeps-typescript-starter-modded#readme",
+  "homepage": "https://github.com/Kaimodo/Screeps21_kAI3#readme",
   "engines": {
     "node": "8.x || 12.x"
   },

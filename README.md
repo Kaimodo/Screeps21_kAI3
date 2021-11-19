@@ -1,4 +1,3 @@
-
 # My screeps AI
 
 ![ ](https://screeps.com/images/logotype-animated.svg)
@@ -11,8 +10,6 @@ Screeps-Inscribe from ([resir014](https://github.com/resir014/screeps-inscribe))
 
 Logger from ([resir014](https://github.com/resir014/Stonehenge))
 
-Traveler from ([bonzaiferroni](https://github.com/bonzaiferroni/Traveler)) - not working atm.
-
 JS2FlowChart from ([Bogdan-Lyashenko](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart))
 
 ## Info 4 JS2Flow
@@ -21,14 +18,14 @@ JS2Flow throws some errors in the way i use it. i couldn't find out how to use i
 
 ## Console Commands
 
-  Commands are defined in Consolecommands.ts
-  Test if they work by typing in
+Commands are defined in Consolecommands.ts
+Test if they work by typing in
 
-  ```bash
-  cc.test()
-  ```
+```bash
+cc.test()
+```
 
-  in the Console.
+in the Console.
 
 ## This is all WIP and there will be no guarantee that committed code is working ;)
 
@@ -39,16 +36,16 @@ JS2Flow throws some errors in the way i use it. i couldn't find out how to use i
 
 ## Helper
 
-|  RCL  |  ROAD   | Container | Spawn | Extension | Rampart | Walls | Tower | Storage | Link  | Extrakt |  Lab  | Terminal | Observe | P-Spawn |
-| :---: | :-----: | :-------: | :---: | :-------: | :-----: | :---: | :---: | :-----: | :---: | :-----: | :---: | :------: | :-----: | :-----: |
-|   1   |   200   |     5     |   1   |     0     |    0    |   0   |   0   |    0    |   0   |    0    |   0   |    0     |    0    |    0    |
-|   2   |   45k   |     5     |   1   |     5     |  300k   |   1   |   0   |    0    |   0   |    0    |   0   |    0     |    0    |    0    |
-|   3   |  135k   |     5     |   1   |    10     |   1m    |   1   |   1   |    0    |   0   |    0    |   0   |    0     |    0    |    0    |
-|   4   |  405k   |     5     |   1   |    20     |   3m    |   1   |   1   |    1    |   0   |    0    |   0   |    0     |    0    |    0    |
-|   5   | 1.215m  |     5     |   1   |    30     |   1b    |   1   |   2   |    1    |   2   |    0    |   0   |    0     |    0    |    0    |
-|   6   | 3.645m  |     5     |   1   |    40     |   3b    |   1   |   2   |    1    |   3   |    1    |   3   |    1     |    0    |    0    |
-|   7   | 1.0935b |     5     |   1   |    50     |   1t    |   1   |   3   |    1    |   4   |    1    |   6   |    1     |    0    |    0    |
-|   8   | 9.999b  |     5     |   1   |    60     |   3t    |   1   |   6   |    1    |   6   |    1    |  10   |    1     |    1    |    1    |
+| RCL |  ROAD   | Container | Spawn | Extension | Rampart | Walls | Tower | Storage | Link | Extrakt | Lab | Terminal | Observe | P-Spawn |
+| :-: | :-----: | :-------: | :---: | :-------: | :-----: | :---: | :---: | :-----: | :--: | :-----: | :-: | :------: | :-----: | :-----: |
+|  1  |   200   |     5     |   1   |     0     |    0    |   0   |   0   |    0    |  0   |    0    |  0  |    0     |    0    |    0    |
+|  2  |   45k   |     5     |   1   |     5     |  300k   |   1   |   0   |    0    |  0   |    0    |  0  |    0     |    0    |    0    |
+|  3  |  135k   |     5     |   1   |    10     |   1m    |   1   |   1   |    0    |  0   |    0    |  0  |    0     |    0    |    0    |
+|  4  |  405k   |     5     |   1   |    20     |   3m    |   1   |   1   |    1    |  0   |    0    |  0  |    0     |    0    |    0    |
+|  5  | 1.215m  |     5     |   1   |    30     |   1b    |   1   |   2   |    1    |  2   |    0    |  0  |    0     |    0    |    0    |
+|  6  | 3.645m  |     5     |   1   |    40     |   3b    |   1   |   2   |    1    |  3   |    1    |  3  |    1     |    0    |    0    |
+|  7  | 1.0935b |     5     |   1   |    50     |   1t    |   1   |   3   |    1    |  4   |    1    |  6  |    1     |    0    |    0    |
+|  8  | 9.999b  |     5     |   1   |    60     |   3t    |   1   |   6   |    1    |  6   |    1    | 10  |    1     |    1    |    1    |
 
 # Origin from here
 

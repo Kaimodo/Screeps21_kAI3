@@ -6,7 +6,7 @@ import { USE_PROFILER } from "config";
 
 import * as Inscribe from "screeps-inscribe";
 
-import * as Logger from "tools/logger/logger";
+import { log } from "tools/logger/logger";
 import {ENABLE_DEBUG_MODE} from "config";
 
 import * as Tools from "tools/tools"
@@ -16,15 +16,19 @@ import { ConsoleCommands } from "tools/consolecommands";
 import { Emoji, Splash } from './tools/Emoji';
 
 import * as Orga from "./organize.json";
+import * as Config from "config";
 
+import * as Mem from "memory"
+
+import { RoomManager } from "components/internal";
 
 
 //New Script loaded
 console.log(`[${Inscribe.color("New Script loaded", "red")}] ${Emoji.reload}`);
-
+log.info(`[${Inscribe.color(`| Memory Version=${Mem.memoryVersion} |`, "skyblue")}]`);
 
 if (USE_PROFILER) {
-  Logger.log.info("Profiler an: "+ USE_PROFILER);
+  log.info("Profiler an: "+ USE_PROFILER);
   Profiler.enable();
 }
 
@@ -33,6 +37,7 @@ const elapsedCPU = Game.cpu.getUsed() - startCpu;
 Splash();
 console.log(`[${Inscribe.color("Script Loading needed: ", "skyblue") + elapsedCPU.toFixed(2) + " Ticks"}]`);
 
+
 // When compiling TS to JS and bundling with rollup, the line numbers and file names in error messages change
 // This utility uses source maps to get the line numbers and file names of the original, TS source code
 export const loop = ErrorMapper.wrapLoop(() => {
@@ -40,9 +45,29 @@ export const loop = ErrorMapper.wrapLoop(() => {
 
 
     global.cc = ConsoleCommands;
-    console.log(`Current game tick is ${Game.time}`);
+    // console.log(`Current game tick is ${Game.time}`);
 
-    // Main Loop here:
+    // Main Loop here
+    if (Mem.m().memVersion === undefined || Mem.m().memVersion !== Mem.memoryVersion) {
+        Tools.memoryInit()
+    }
+    if (!Mem.m().uuid || Mem.m().uuid > 1000) {
+        Mem.m().uuid = 0;
+    }
+    for (const R in Game.rooms){
+        const room: Room = Game.rooms[R];
+        const rm: Mem.RoomMemory = Mem.m().rooms[room.name];
+        if (rm === undefined) {
+            log.info(`Init room Memory for ${room.name}`);
+            Memory.rooms[room.name] = {};
+            RoomManager.initRoomMemory(room, room.name);
+        } else {
+            RoomManager.run(room, rm);
+        }
+        if (Game.time % 10 === 0){
+            RoomManager.cleanupAssignedMiners(rm);
+        }
+    }
 
 
     Tools.log_info()

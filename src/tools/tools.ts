@@ -1,6 +1,39 @@
 import * as Inscribe from "screeps-inscribe";
 import * as Config from "config";
+import { log } from "./logger/logger";
+import * as Mem from "../memory";
 
+
+export function memoryInit() {
+    log.info("initing game");
+    for (const name in Memory.flags) {
+        if (!(name in Game.flags)) {
+          delete Memory.flags[name];
+        }
+    }
+    for (const name in Memory.spawns) {
+        if (!(name in Game.spawns)) {
+          delete Memory.spawns[name];
+        }
+    }
+    for (const name in Memory.creeps) {
+        if (!(name in Game.creeps)) {
+          delete Memory.creeps[name];
+        }
+    }
+    for (const name in Memory.rooms) {
+        if (!(name in Game.rooms)) {
+          delete Memory.rooms[name];
+        }
+    }
+    const mem = Mem.m();
+    mem.creeps = {};
+    mem.rooms = {};
+
+    mem.uuid = 0;
+    //mem.logLevel = M.LogLevel.Low;
+    mem.memVersion = Mem.memoryVersion ;
+}
 
 export function log_info() {
   // Periodic logging of useful info
