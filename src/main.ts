@@ -1,4 +1,9 @@
 const startCpu = Game.cpu.getUsed()
+    // TODO Check for Export Task-manager
+    // TODO Hauler
+    // TODO Container Controller
+    // TODO Road spawn to Tower
+    // TODO backcheck stats.ts
 import { ErrorMapper } from "tools/ErrorMapper";
 
 import * as Profiler from "screeps-profiler";

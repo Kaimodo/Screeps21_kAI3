@@ -106,9 +106,7 @@ export class RoomManager {
 
         return 7;
     }
-    // TODO Check for Export Task-manager
-    // TODO Hauler
-    // TODO Container Controller
+
     private static scanRoom (room: Room, roomMem: Mem.RoomMemory) {
         Mem.roomState.creeps = room.find(FIND_MY_CREEPS);
         Mem.roomState.creepCount = _.size(Mem.roomState.creeps);
@@ -140,28 +138,32 @@ export class RoomManager {
 
         if (Game.time % 10 === 0) {
             RoomManager.buildExtension(room, roomMem, numExtensionToBuild);
+            if (Mem.roomState.extensions.length >= 5) {
+                const buildSource = roadBuilder.placeRoadSourceToSpawn(room);
+                if (buildSource === OK) {
+                    // log.info(`${Emoji.info} Created road from Spawn to Source`);
+                }
+                const buildS2S = roadBuilder.placeRoadSource2Source(room);
+                if (buildS2S === OK ) {
+                    // log.info(`${Emoji.info} Created road from Source to Source`);
+                }
+                const buildController = roadBuilder.placeRoadControllerToSpawn(room);
+                if (buildController === OK) {
+                    // log.info(`${Emoji.info} Created road from Spawn to Controller`);
+                }
+                const buildExtension = roadBuilder.placeRoadSpawnToExtensions(room);
+                if (buildExtension === OK) {
+                    // log.info(`${Emoji.info} Created road from Spawn to Extensions`);
+                }
+            }
+
             if (room.controller) {
+                // log.debug(`${Emoji.debug} RCL: ${room.controller.level}`);
                 if (room.controller?.level >= 3) {
                     RoomManager.buildTower(room, roomMem, numTowersToBuild);
                 }
                 if(room.controller.level >= 4 && roomMem.techLevel >=5) {
                     RoomManager.buildStorage(room, roomMem, numStoragesToBuild);
-                    const buildSource = roadBuilder.placeRoadSourceToSpawn(room);
-                    if (buildSource === OK) {
-                        // log.info(`${Emoji.info} Created road from Spawn to Source`);
-                    }
-                    const buildS2S = roadBuilder.placeRoadSource2Source(room);
-                    if (buildS2S === OK ) {
-                        // log.info(`${Emoji.info} Created road from Source to Source`);
-                    }
-                    const buildController = roadBuilder.placeRoadControllerToSpawn(room);
-                    if (buildController === OK) {
-                        // log.info(`${Emoji.info} Created road from Spawn to Controller`);
-                    }
-                    const buildExtension = roadBuilder.placeRoadSpawnToExtensions(room);
-                    if (buildExtension === OK) {
-                        // log.info(`${Emoji.info} Created road from Spawn to Extensions`);
-                    }
                     const buildStorage = roadBuilder.placeRoadSpawnToStorage(room);
                     if (buildStorage === OK) {
                          // log.info(`${Emoji.info} Created road from Spawn to Storage`);
@@ -577,7 +579,6 @@ export class RoomManager {
             if (containerPos !== null) {
                 roomMem.containerPositions.push(containerPos);
             }
-            // TODO const storagePos = getOptimalStoragePosition(minerTasksForSource, sourcePos, room);
         }
     }
     private static getFirstSpawn(room: Room): StructureSpawn | null{

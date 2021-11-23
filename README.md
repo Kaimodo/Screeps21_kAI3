@@ -31,10 +31,10 @@ in the Console.
 
 ## Current state: WIP as of 16.11.2021
 
-- i added a different Street-building system, which is (as everything here) work in Progress.
-- I Will refract the Code cause in the actual state it's hard to read, at least for me.
-- 23.11.21 | Added rollup-version-plugin
-- 23.11.21 | Added Grafana-Support
+- 16.11.2021 | i added a different Street-building system, which is (as everything here) work in Progress.
+- 16.11.2021 |I Will refract the Code cause in the actual state it's hard to read, at least for me.
+- 23.11.2021 | Added rollup-version-plugin
+- 23.11.2021 | Added Grafana-Support
 
 ## Helper
 
