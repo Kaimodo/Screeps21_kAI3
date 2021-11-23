@@ -2,7 +2,7 @@
 /**
  * The memory Version
  */
-export let memoryVersion: number = 1;
+export let memoryVersion: number = 2;
 
 
 

@@ -21,6 +21,8 @@ screeps.json
 # SVG-Files
 *.svg
 
+/Screeps-Visual.html
+
 # ScreepsServer data from integration tests
 /server
 

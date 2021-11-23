@@ -14,6 +14,7 @@
     "push-pserver": "rollup -c --environment DEST:pserver",
     "push-local": "rollup -c --environment DEST:local",
     "push-Onlinepserver": "rollup -c --environment DEST:onlinepserver",
+    "push-Azure": "rollup -c --environment DEST:azure",
     "push-season": "rollup -c --environment DEST:season",
     "push-sim": "rollup -c --environment DEST:sim",
     "test": "npm run test-unit",
