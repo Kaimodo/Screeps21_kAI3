@@ -190,6 +190,7 @@ export class RoomState
     public miners: Creep[] = [];
     public builders: Creep[] = [];
     public structures: Structure[] = [];
+    public controllers: StructureController[] = [];
     public spawns: StructureSpawn[] = [];
     public sources: Source [] = [];
     public storages: StructureStorage[] = [];

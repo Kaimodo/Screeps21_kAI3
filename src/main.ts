@@ -21,6 +21,7 @@ import * as Config from "config";
 import * as Mem from "memory"
 
 import { RoomManager } from "components/internal";
+import { StatsManager } from './tools/stats';
 
 
 //New Script loaded
@@ -32,24 +33,53 @@ if (USE_PROFILER) {
   Profiler.enable();
 }
 
+function memoryInit() {
+  log.info("initing game");
+  for (const name in Memory.flags) {
+      if (!(name in Game.flags)) {
+        delete Memory.flags[name];
+      }
+  }
+  for (const name in Memory.spawns) {
+      if (!(name in Game.spawns)) {
+        delete Memory.spawns[name];
+      }
+  }
+  for (const name in Memory.creeps) {
+      if (!(name in Game.creeps)) {
+        delete Memory.creeps[name];
+      }
+  }
+  for (const name in Memory.rooms) {
+      if (!(name in Game.rooms)) {
+        delete Memory.rooms[name];
+      }
+  }
+  const mem = Mem.m();
+  mem.creeps = {};
+  mem.rooms = {};
+
+  mem.uuid = 0;
+  //mem.logLevel = M.LogLevel.Low;
+  mem.memVersion = Mem.memoryVersion ;
+}
+
 // Get Script loading time
 const elapsedCPU = Game.cpu.getUsed() - startCpu;
 Splash();
 console.log(`[${Inscribe.color("Script Loading needed: ", "skyblue") + elapsedCPU.toFixed(2) + " Ticks"}]`);
-
 
 // When compiling TS to JS and bundling with rollup, the line numbers and file names in error messages change
 // This utility uses source maps to get the line numbers and file names of the original, TS source code
 export const loop = ErrorMapper.wrapLoop(() => {
   Profiler.wrap(() => {
 
-
     global.cc = ConsoleCommands;
     // console.log(`Current game tick is ${Game.time}`);
 
     // Main Loop here
     if (Mem.m().memVersion === undefined || Mem.m().memVersion !== Mem.memoryVersion) {
-        Tools.memoryInit()
+        memoryInit()
     }
     if (!Mem.m().uuid || Mem.m().uuid > 1000) {
         Mem.m().uuid = 0;
@@ -72,5 +102,6 @@ export const loop = ErrorMapper.wrapLoop(() => {
 
     Tools.log_info()
     Tools.ClearNonExistingCreeMemory();
+    StatsManager.runForAllRooms();
   });
 });

@@ -77,6 +77,20 @@ class RoadBuilder {
         }
         return OK;
     }
+    public placeRoadSpawnToStorage(room: Room): ScreepsReturnCode {
+        const storage = this.state.storages[0] ;
+        const spawns = this.state.spawns;
+        for(const spawn of spawns) {
+            const path = this.planRoad(spawn.pos, storage.pos, 1);
+            if (!path.incomplete) {
+                const result = this.placeRoadOnPath(path, room);
+                if (result !== OK) {
+                    return result;
+                }
+            }
+        }
+        return OK;
+    }
 
     public placeRoadToTarget(room: Room, creep: Creep, target: Structure): ScreepsReturnCode {
         let result: ScreepsReturnCode = ERR_NOT_IN_RANGE;

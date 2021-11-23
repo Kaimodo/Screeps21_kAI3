@@ -14,7 +14,7 @@ JS2FlowChart from ([Bogdan-Lyashenko](https://github.com/Bogdan-Lyashenko/js-cod
 
 ## Info 4 JS2Flow
 
-JS2Flow throws some errors in the way i use it. i couldn't find out how to use it "correct". I start it via npm which executes a Powershell-Script. But basically it works. There is some error with "optional chaining" in flow2js. i tryed to install those plugins manualy but it won't work. Well, this is thought to use with js not ts...
+JS2Flow throws some errors in the way i use it. i couldn't find out how to use it "correct". I start it via npm which executes a Powershell-Script. But basically it works. There is some error with "optional chaining" in flow2js. i tried to install those plugins manually but it won't work. Well, this is thought to use with js not ts...
 
 ## Console Commands
 
@@ -29,23 +29,25 @@ in the Console.
 
 ## This is all WIP and there will be no guarantee that committed code is working ;)
 
-# Current state: WIP as of 16.11.2021
+## Current state: WIP as of 16.11.2021
 
 - i added a different Street-building system, which is (as everything here) work in Progress.
 - I Will refract the Code cause in the actual state it's hard to read, at least for me.
+- 23.11.21 | Added rollup-version-plugin
+- 23.11.21 | Added Grafana-Support
 
 ## Helper
 
-| RCL |  ROAD   | Container | Spawn | Extension | Rampart | Walls | Tower | Storage | Link | Extrakt | Lab | Terminal | Observe | P-Spawn |
-| :-: | :-----: | :-------: | :---: | :-------: | :-----: | :---: | :---: | :-----: | :--: | :-----: | :-: | :------: | :-----: | :-----: |
-|  1  |   200   |     5     |   1   |     0     |    0    |   0   |   0   |    0    |  0   |    0    |  0  |    0     |    0    |    0    |
-|  2  |   45k   |     5     |   1   |     5     |  300k   |   1   |   0   |    0    |  0   |    0    |  0  |    0     |    0    |    0    |
-|  3  |  135k   |     5     |   1   |    10     |   1m    |   1   |   1   |    0    |  0   |    0    |  0  |    0     |    0    |    0    |
-|  4  |  405k   |     5     |   1   |    20     |   3m    |   1   |   1   |    1    |  0   |    0    |  0  |    0     |    0    |    0    |
-|  5  | 1.215m  |     5     |   1   |    30     |   1b    |   1   |   2   |    1    |  2   |    0    |  0  |    0     |    0    |    0    |
-|  6  | 3.645m  |     5     |   1   |    40     |   3b    |   1   |   2   |    1    |  3   |    1    |  3  |    1     |    0    |    0    |
-|  7  | 1.0935b |     5     |   1   |    50     |   1t    |   1   |   3   |    1    |  4   |    1    |  6  |    1     |    0    |    0    |
-|  8  | 9.999b  |     5     |   1   |    60     |   3t    |   1   |   6   |    1    |  6   |    1    | 10  |    1     |    1    |    1    |
+| RCL |  ROAD   | Container | Spawn | Extension | Rampart | Walls | Tower | Storage | Link | Extract | Lab | Terminal | Observe | P-Spawn | Factory |
+| :-: | :-----: | :-------: | :---: | :-------: | :-----: | :---: | :---: | :-----: | :--: | :-----: | :-: | :------: | :-----: | :-----: | :-----: |
+|  1  |   200   |     5     |   1   |     0     |    0    |   0   |   0   |    0    |  0   |    0    |  0  |    0     |    0    |    0    |    0    |
+|  2  |   45k   |     5     |   1   |     5     |  300k   |   1   |   0   |    0    |  0   |    0    |  0  |    0     |    0    |    0    |    0    |
+|  3  |  135k   |     5     |   1   |    10     |   1m    |   1   |   1   |    0    |  0   |    0    |  0  |    0     |    0    |    0    |    0    |
+|  4  |  405k   |     5     |   1   |    20     |   3m    |   1   |   1   |    1    |  0   |    0    |  0  |    0     |    0    |    0    |    0    |
+|  5  | 1.215m  |     5     |   1   |    30     |   1b    |   1   |   2   |    1    |  2   |    0    |  0  |    0     |    0    |    0    |    0    |
+|  6  | 3.645m  |     5     |   1   |    40     |   3b    |   1   |   2   |    1    |  3   |    1    |  3  |    1     |    0    |    0    |    0    |
+|  7  | 1.0935b |     5     |   1   |    50     |   1t    |   1   |   3   |    1    |  4   |    1    |  6  |    1     |    0    |    0    |    1    |
+|  8  | 9.999b  |     5     |   1   |    60     |   3t    |   1   |   6   |    1    |  6   |    1    | 10  |    1     |    1    |    1    |    1    |
 
 # Origin from here
 

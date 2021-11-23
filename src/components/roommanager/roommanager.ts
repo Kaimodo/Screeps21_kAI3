@@ -19,10 +19,13 @@ import {roadBuilder} from "components/roadbuilder";
 import { Emoji } from "tools/emoji";
 import { Tower } from 'components/tower';
 
+import { StructLevel } from "./structLevel";
+
 
 
 export class RoomManager {
     public static run (room: Room, roomMem: Mem.RoomMemory): void {
+
         RoomManager.scanRoom(room, roomMem);
 
         RoomManager.showSpawnTextIfSpawn(room, roomMem);
@@ -103,12 +106,16 @@ export class RoomManager {
 
         return 7;
     }
+    // TODO Check for Export Task-manager
+    // TODO Hauler
+    // TODO Container Controller
     private static scanRoom (room: Room, roomMem: Mem.RoomMemory) {
         Mem.roomState.creeps = room.find(FIND_MY_CREEPS);
         Mem.roomState.creepCount = _.size(Mem.roomState.creeps);
         Mem.roomState.miners = _.filter(Mem.roomState.creeps, (creep) => Mem.cm(creep).role === Mem.CreepRoles.ROLE_MINER);
         Mem.roomState.builders = _.filter(Mem.roomState.creeps, (creep) => Mem.cm(creep).role === Mem.CreepRoles.ROLE_BUILDER);
         Mem.roomState.structures = room.find<StructureContainer>(FIND_STRUCTURES);
+        Mem.roomState.controllers = _.filter(Mem.roomState.structures, (structure) => structure.structureType === STRUCTURE_CONTROLLER) as StructureController[];
         Mem.roomState.spawns = _.filter(Mem.roomState.structures, (structure) => structure.structureType === STRUCTURE_SPAWN) as StructureSpawn[];
         Mem.roomState.sources = room.find(FIND_SOURCES);
         Mem.roomState.storages = _.filter(Mem.roomState.structures, (structure) => structure.structureType === STRUCTURE_STORAGE) as StructureStorage[];
@@ -121,10 +128,11 @@ export class RoomManager {
         roomMem.room = room;
 
         RoomManager.findNonRoadNeedingRepair(room, roomMem);
+        // TODO BUILD Container for Controller: miner.ts
 
-        let numTowersToBuild = RoomManager.getNumTowersToBuild(room);
-        let numExtensionToBuild = RoomManager.getNumExtensionsToBuild(room);
-        let numStoragesToBuild = RoomManager.getNumStoragesToBuild(room);
+        const numExtensionToBuild = new StructLevel().getMaxStructs(STRUCTURE_EXTENSION, Mem.roomState.controllers[0]);
+        const numTowersToBuild = new StructLevel().getMaxStructs(STRUCTURE_TOWER, Mem.roomState.controllers[0]);
+        const numStoragesToBuild = new StructLevel().getMaxStructs(STRUCTURE_STORAGE, Mem.roomState.controllers[0]);
 
         roomMem.techLevel = RoomManager.getTechLevel(room, roomMem, numExtensionToBuild, numTowersToBuild, numStoragesToBuild);
         roomMem.energyLevel = RoomManager.getRoomEnergyLevel(room, roomMem);
@@ -137,23 +145,26 @@ export class RoomManager {
                     RoomManager.buildTower(room, roomMem, numTowersToBuild);
                 }
                 if(room.controller.level >= 4 && roomMem.techLevel >=5) {
-                    // TODO Road Tower / Storage
                     RoomManager.buildStorage(room, roomMem, numStoragesToBuild);
                     const buildSource = roadBuilder.placeRoadSourceToSpawn(room);
                     if (buildSource === OK) {
-                        // log.info("Created road from Sources to Spawn");
+                        // log.info(`${Emoji.info} Created road from Spawn to Source`);
                     }
                     const buildS2S = roadBuilder.placeRoadSource2Source(room);
                     if (buildS2S === OK ) {
-                        // log.info(`${Emoji.info} builded roads between sources`);
+                        // log.info(`${Emoji.info} Created road from Source to Source`);
                     }
                     const buildController = roadBuilder.placeRoadControllerToSpawn(room);
                     if (buildController === OK) {
-                        // log.info("Created road from Controller to Spawn");
+                        // log.info(`${Emoji.info} Created road from Spawn to Controller`);
                     }
                     const buildExtension = roadBuilder.placeRoadSpawnToExtensions(room);
                     if (buildExtension === OK) {
-                        // log.info("Created road from Extension to Spawn");
+                        // log.info(`${Emoji.info} Created road from Spawn to Extensions`);
+                    }
+                    const buildStorage = roadBuilder.placeRoadSpawnToStorage(room);
+                    if (buildStorage === OK) {
+                         // log.info(`${Emoji.info} Created road from Spawn to Storage`);
                     }
                 }
             }
@@ -163,134 +174,8 @@ export class RoomManager {
         }
         if (Game.time % 25 === 0) {
             log.info(`[${Inscribe.color(`TL=${roomMem.techLevel} Mem:${Mem.m().memVersion}/${Mem.memoryVersion} M:${Mem.roomState.miners.length}/${roomMem.minerTasks.length} B:${Mem.roomState.builders.length}/${roomMem.desiredBuilders} S=${Mem.roomState.structures.length} Con=${Mem.roomState.containers.length}/${roomMem.containerPositions.length} Ext=${Mem.roomState.extensions.length}/${numExtensionToBuild} RoRe:${Mem.roomState.notRoadNeedingRepair.length} ExtA:${roomMem.extensionIdsAssigned.length} Eng:${roomMem.energyLevel} Tow:${Mem.roomState.towers.length}/${numTowersToBuild} St:${Mem.roomState.storages.length}/${numStoragesToBuild}`, "skyblue")}]`);
+
         }
-    }
-    // TODO Export those
-    private static getNumTowersToBuild(room: Room): number {
-        if (room.controller != null) {
-            switch (room.controller.level) {
-                case 2: return 0;
-                case 3: return 1;
-                case 4: return 1;
-                case 5: return 2;
-                case 6: return 2;
-                case 7: return 3;
-                case 8: return 8;
-            }
-        }
-        return 0;
-    }
-    private static getNumExtensionsToBuild(room: Room): number {
-        if (room.controller != null) {
-            switch (room.controller.level) {
-                case 2: return 5;
-                case 3: return 10;
-                case 4: return 20;
-                case 5: return 30;
-                case 6: return 40;
-                case 7: return 50;
-                case 8: return 60;
-            }
-        }
-        return 0;
-    }
-    private static getNumStoragesToBuild(room: Room): number {
-        if (room.controller != null) {
-            switch (room.controller.level) {
-                case 2: return 0;
-                case 3: return 0;
-                case 4: return 1;
-                case 5: return 1;
-                case 6: return 1;
-                case 7: return 1;
-                case 8: return 1;
-            }
-        }
-        return 0;
-    }
-    private static getNumLinksToBuild(room: Room): number {
-        if (room.controller != null) {
-            switch (room.controller.level) {
-                case 2: return 0;
-                case 3: return 0;
-                case 4: return 0;
-                case 5: return 2;
-                case 6: return 3;
-                case 7: return 4;
-                case 8: return 6;
-            }
-        }
-        return 0;
-    }
-    private static getNumExtractorsToBuild(room: Room): number {
-        if (room.controller != null) {
-            switch (room.controller.level) {
-                case 2: return 0;
-                case 3: return 0;
-                case 4: return 0;
-                case 5: return 0;
-                case 6: return 1;
-                case 7: return 1;
-                case 8: return 1;
-            }
-        }
-        return 0;
-    }
-    private static getNumLabsToBuild(room: Room): number {
-        if (room.controller != null) {
-            switch (room.controller.level) {
-                case 2: return 0;
-                case 3: return 0;
-                case 4: return 0;
-                case 5: return 0;
-                case 6: return 3;
-                case 7: return 6;
-                case 8: return 10;
-            }
-        }
-        return 0;
-    }
-    private static getNumTerminalsToBuild(room: Room): number {
-        if (room.controller != null) {
-            switch (room.controller.level) {
-                case 2: return 0;
-                case 3: return 0;
-                case 4: return 0;
-                case 5: return 0;
-                case 6: return 1;
-                case 7: return 1;
-                case 8: return 1;
-            }
-        }
-        return 0;
-    }
-    private static getNumObserversToBuild(room: Room): number {
-        if (room.controller != null) {
-            switch (room.controller.level) {
-                case 2: return 0;
-                case 3: return 0;
-                case 4: return 0;
-                case 5: return 0;
-                case 6: return 0;
-                case 7: return 0;
-                case 8: return 1;
-            }
-        }
-        return 0;
-    }
-    private static getNumPowerSpawnsToBuild(room: Room): number {
-        if (room.controller != null) {
-            switch (room.controller.level) {
-                case 2: return 0;
-                case 3: return 0;
-                case 4: return 0;
-                case 5: return 0;
-                case 6: return 0;
-                case 7: return 0;
-                case 8: return 1;
-            }
-        }
-        return 0;
     }
 
     private static findNonRoadNeedingRepair(room: Room, roomMem: Mem.RoomMemory) {

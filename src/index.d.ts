@@ -1,7 +1,26 @@
+// import { RoomMemory } from './memory';
 // Game Memory
 interface Memory {
     version?: string;
+    date: string;
+    stats: any;
+}
 
+
+interface RoomMemory {
+    rooms?:
+    {
+        [name: string]: RoomMemory;
+    }
+    lastProgressChecktime?: number;
+    lastProgress?: number;
+    isUnderSiege?: number;
+}
+
+
+interface CreepMemory {
+    homeRoom: string;
+    role: string;
 }
 
 // Syntax for adding properties to `global` (ex "global.log")
