@@ -1,0 +1,5 @@
+{
+  "DESIRED_BUILDERS": "8",
+  "WALL_MAXHP": "100000",
+  "RAMP_MAXHP": "100000"
+}

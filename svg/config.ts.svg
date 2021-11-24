@@ -1,0 +1,976 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+                width="614" height="2170" shape-rendering="optimizeSpeed">
+                
+            <g>
+                <rect x="50" y="80"
+            width="178.2" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="228.2" y1="90" x2="233.2" y2="90"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="228.2" y1="100" x2="233.2" y2="100"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M233.2, 81 L253.2, 95 L233.2, 109 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export USE_PROFILER</title>
+            <text x="65" y="100"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="100">export USE_PROFILER</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="128.5"
+            width="295.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const USE_PROFILER: boolean = true</title>
+            <text x="102" y="148.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="148.5">const USE_PROFILER: boolean = true</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="192"
+            width="217.2" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="267.2" y1="202" x2="272.2" y2="202"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="267.2" y1="212" x2="272.2" y2="212"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M272.2, 193 L292.2, 207 L272.2, 221 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export ENABLE_DEBUG_MODE</title>
+            <text x="65" y="212"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="212">export ENABLE_DEBUG_MODE</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="240.5"
+            width="334.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const ENABLE_DEBUG_MODE: boolean = true</title>
+            <text x="102" y="260.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="260.5">const ENABLE_DEBUG_MODE: boolean = true</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="304"
+            width="201.6" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="251.6" y1="314" x2="256.6" y2="314"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="251.6" y1="324" x2="256.6" y2="324"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M256.6, 305 L276.6, 319 L256.6, 333 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export FIRST_ROOM_NAME</title>
+            <text x="65" y="324"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="324">export FIRST_ROOM_NAME</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="352.5"
+            width="443.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const FIRST_ROOM_NAME = Game.spawns.Spawn1.room.name</title>
+            <text x="102" y="372.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="372.5">const FIRST_ROOM_NAME = Game.spawns.Spawn1.room.na...</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="416"
+            width="209.4" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="259.4" y1="426" x2="264.4" y2="426"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="259.4" y1="436" x2="264.4" y2="436"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M264.4, 417 L284.4, 431 L264.4, 445 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export DESIRED_BUILDERS</title>
+            <text x="65" y="436"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="436">export DESIRED_BUILDERS</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="464.5"
+            width="295.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const DESIRED_BUILDERS: number = 8</title>
+            <text x="102" y="484.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="484.5">const DESIRED_BUILDERS: number = 8</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="528"
+            width="162.6" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="212.6" y1="538" x2="217.6" y2="538"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="212.6" y1="548" x2="217.6" y2="548"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M217.6, 529 L237.6, 543 L217.6, 557 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export WALL_MAXHP</title>
+            <text x="65" y="548"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="548">export WALL_MAXHP</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="576.5"
+            width="287.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const WALL_MAXHP: number = 100000</title>
+            <text x="102" y="596.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="596.5">const WALL_MAXHP: number = 100000</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="640"
+            width="162.6" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="212.6" y1="650" x2="217.6" y2="650"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="212.6" y1="660" x2="217.6" y2="660"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M217.6, 641 L237.6, 655 L217.6, 669 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export RAMP_MAXHP</title>
+            <text x="65" y="660"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="660">export RAMP_MAXHP</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="688.5"
+            width="287.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const RAMP_MAXHP: number = 100000</title>
+            <text x="102" y="708.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="708.5">const RAMP_MAXHP: number = 100000</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="752"
+            width="256.2" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="306.2" y1="762" x2="311.2" y2="762"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="306.2" y1="772" x2="311.2" y2="772"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M311.2, 753 L331.2, 767 L311.2, 781 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export TOWER_MAX_REPAIR_RANGE</title>
+            <text x="65" y="772"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="772">export TOWER_MAX_REPAIR_RANGE</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="800.5"
+            width="420" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const TOWER_MAX_REPAIR_RANGE = TOWER_OPTIMAL_RANGE</title>
+            <text x="102" y="820.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="820.5">const TOWER_MAX_REPAIR_RANGE = TOWER_OPTIMAL_RANGE</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="864"
+            width="256.2" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="306.2" y1="874" x2="311.2" y2="874"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="306.2" y1="884" x2="311.2" y2="884"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M311.2, 865 L331.2, 879 L311.2, 893 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export TOWER_MAX_ATTACK_RANGE</title>
+            <text x="65" y="884"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="884">export TOWER_MAX_ATTACK_RANGE</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="912.5"
+            width="443.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const TOWER_MAX_ATTACK_RANGE = TOWER_OPTIMAL_RANGE * 2</title>
+            <text x="102" y="932.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="932.5">const TOWER_MAX_ATTACK_RANGE = TOWER_OPTIMAL_RANGE...</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="976"
+            width="240.60000000000002" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="290.6" y1="986" x2="295.6" y2="986"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="290.6" y1="996" x2="295.6" y2="996"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M295.6, 977 L315.6, 991 L295.6, 1005 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export TOWER_MAX_HEAL_RANGE</title>
+            <text x="65" y="996"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="996">export TOWER_MAX_HEAL_RANGE</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="1024.5"
+            width="443.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const TOWER_MAX_HEAL_RANGE = TOWER_OPTIMAL_RANGE * 2</title>
+            <text x="102" y="1044.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1044.5">const TOWER_MAX_HEAL_RANGE = TOWER_OPTIMAL_RANGE *...</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="1088"
+            width="305.2" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="1088" x2="55" y2="1118"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="350.2" y1="1088" x2="350.2" y2="1118"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&quot;tools/logger/logLevel&quot;</title>
+            <text x="70" y="1108"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="1108">import from&quot;tools/logger/logLevel&quot;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="1136.5"
+            width="92.4" height="30"
+            rx="2" ry="2"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                   <title>LogLevel</title>
+            <text x="102" y="1156.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1156.5">LogLevel</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="1200"
+            width="154.8" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="204.8" y1="1210" x2="209.8" y2="1210"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="204.8" y1="1220" x2="209.8" y2="1220"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M209.8, 1201 L229.8, 1215 L209.8, 1229 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export LOG_LEVEL</title>
+            <text x="65" y="1220"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1220">export LOG_LEVEL</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="1248.5"
+            width="342" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const LOG_LEVEL: number = LogLevel.DEBUG</title>
+            <text x="102" y="1268.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1268.5">const LOG_LEVEL: number = LogLevel.DEBUG</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="1312"
+            width="193.79999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="243.79999999999998" y1="1322" x2="248.79999999999998" y2="1322"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="243.79999999999998" y1="1332" x2="248.79999999999998" y2="1332"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M248.79999999999998, 1313 L268.79999999999995, 1327 L248.79999999999998, 1341 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export LOG_PRINT_TICK</title>
+            <text x="65" y="1332"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1332">export LOG_PRINT_TICK</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="1360.5"
+            width="310.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const LOG_PRINT_TICK: boolean = true</title>
+            <text x="102" y="1380.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1380.5">const LOG_PRINT_TICK: boolean = true</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="1424"
+            width="201.6" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="251.6" y1="1434" x2="256.6" y2="1434"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="251.6" y1="1444" x2="256.6" y2="1444"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M256.6, 1425 L276.6, 1439 L256.6, 1453 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export LOG_PRINT_LINES</title>
+            <text x="65" y="1444"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1444">export LOG_PRINT_LINES</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="1472.5"
+            width="318.59999999999997" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const LOG_PRINT_LINES: boolean = true</title>
+            <text x="102" y="1492.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1492.5">const LOG_PRINT_LINES: boolean = true</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="1536"
+            width="232.79999999999995" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="282.79999999999995" y1="1546" x2="287.79999999999995" y2="1546"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="282.79999999999995" y1="1556" x2="287.79999999999995" y2="1556"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M287.79999999999995, 1537 L307.79999999999995, 1551 L287.79999999999995, 1565 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export LOG_LOAD_SOURCE_MAP</title>
+            <text x="65" y="1556"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1556">export LOG_LOAD_SOURCE_MAP</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="1584.5"
+            width="349.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const LOG_LOAD_SOURCE_MAP: boolean = true</title>
+            <text x="102" y="1604.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1604.5">const LOG_LOAD_SOURCE_MAP: boolean = true</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="1648"
+            width="170.4" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="220.4" y1="1658" x2="225.4" y2="1658"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="220.4" y1="1668" x2="225.4" y2="1668"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M225.4, 1649 L245.4, 1663 L225.4, 1677 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export LOG_MAX_PAD</title>
+            <text x="65" y="1668"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1668">export LOG_MAX_PAD</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="1696.5"
+            width="271.79999999999995" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const LOG_MAX_PAD: number = 100</title>
+            <text x="102" y="1716.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1716.5">const LOG_MAX_PAD: number = 100</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="1760"
+            width="139.2" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="189.2" y1="1770" x2="194.2" y2="1770"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="189.2" y1="1780" x2="194.2" y2="1780"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M194.2, 1761 L214.2, 1775 L194.2, 1789 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export LOG_VSC</title>
+            <text x="65" y="1780"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1780">export LOG_VSC</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="1808.5"
+            width="178.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const LOG_VSC = {*}</title>
+            <text x="102" y="1828.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1828.5">const LOG_VSC = {*}</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="1857"
+            width="170.4" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>repo: &apos;@@_repo_@@&apos;</title>
+            <text x="139" y="1877"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="1877">repo: &apos;@@_repo_@@&apos;</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="1905.5"
+            width="131.39999999999998" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>revision: &apos;1&apos;</title>
+            <text x="139" y="1925.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="1925.5">revision: &apos;1&apos;</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="1954"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>valid: false //export const LOG_VSC = { repo: &apos;@@_repo_@@&apos;, revision: __REVISION__, valid: false }
+
+/**
+ * URL template for VSC links, this one works for github and gitlab.
+ */</title>
+            <text x="139" y="1974"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="1974">valid: false //export const LOG_VSC = { repo: &apos;@@_...</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="2017.5"
+            width="240.60000000000002" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="290.6" y1="2027.5" x2="295.6" y2="2027.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="290.6" y1="2037.5" x2="295.6" y2="2037.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M295.6, 2018.5 L315.6, 2032.5 L295.6, 2046.5 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export LOG_VSC_URL_TEMPLATE</title>
+            <text x="65" y="2037.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="2037.5">export LOG_VSC_URL_TEMPLATE</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="87" y="2066"
+            width="346.4" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="97" y1="2066" x2="97" y2="2096"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="423.4" y1="2066" x2="423.4" y2="2096"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>LOG_VSC_URL_TEMPLATE = (path, line) =&gt;</title>
+            <text x="112" y="2086"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="112" y="2086">LOG_VSC_URL_TEMPLATE = (path, line) =&gt;</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="124" y="2114.5"
+            width="443.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="567.4" y1="2124.5" x2="572.4" y2="2124.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="567.4" y1="2134.5" x2="572.4" y2="2134.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M572.4, 2118.5 L588.4, 2129.5 L572.4, 2140.5 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return `${LOG_VSC.repo}/blob/${LOG_VSC.revision}/${path}#${line}`</title>
+            <text x="139" y="2134.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="2134.5">return `${LOG_VSC.repo}/blob/${LOG_VSC.revision}/$...</tspan>
+            </text>
+                
+            </g>
+            <g>
+               <rect x="25" y="13.75"
+            width="216.6" height="24"
+            style="fill:#fff59d; stroke:#444; stroke-width:1" />
+               <circle cx="25" cy="25" r="15"
+        style="fill:#fff59d; stroke:#444; stroke-width:1" />
+               <title>Program: source module</title>
+            <text x="55" y="30"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="55" y="30">Program: source module</tspan>
+            </text>
+            </g>
+            <g>
+               <path d="M25, 40 L25 91 Q25 95
+                29 95
+                L42 95 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 92 L50, 95 L42, 98 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 110 L68.5 139.5 Q68.5 143.5
+                72.5 143.5
+                L79 143.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 140.5 L87, 143.5 L79, 146.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 203 Q25 207
+                29 207
+                L42 207 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 204 L50, 207 L42, 210 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 222 L68.5 251.5 Q68.5 255.5
+                72.5 255.5
+                L79 255.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 252.5 L87, 255.5 L79, 258.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 315 Q25 319
+                29 319
+                L42 319 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 316 L50, 319 L42, 322 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 334 L68.5 363.5 Q68.5 367.5
+                72.5 367.5
+                L79 367.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 364.5 L87, 367.5 L79, 370.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 427 Q25 431
+                29 431
+                L42 431 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 428 L50, 431 L42, 434 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 446 L68.5 475.5 Q68.5 479.5
+                72.5 479.5
+                L79 479.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 476.5 L87, 479.5 L79, 482.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 539 Q25 543
+                29 543
+                L42 543 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 540 L50, 543 L42, 546 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 558 L68.5 587.5 Q68.5 591.5
+                72.5 591.5
+                L79 591.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 588.5 L87, 591.5 L79, 594.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 651 Q25 655
+                29 655
+                L42 655 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 652 L50, 655 L42, 658 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 670 L68.5 699.5 Q68.5 703.5
+                72.5 703.5
+                L79 703.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 700.5 L87, 703.5 L79, 706.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 763 Q25 767
+                29 767
+                L42 767 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 764 L50, 767 L42, 770 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 782 L68.5 811.5 Q68.5 815.5
+                72.5 815.5
+                L79 815.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 812.5 L87, 815.5 L79, 818.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 875 Q25 879
+                29 879
+                L42 879 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 876 L50, 879 L42, 882 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 894 L68.5 923.5 Q68.5 927.5
+                72.5 927.5
+                L79 927.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 924.5 L87, 927.5 L79, 930.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 987 Q25 991
+                29 991
+                L42 991 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 988 L50, 991 L42, 994 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1006 L68.5 1035.5 Q68.5 1039.5
+                72.5 1039.5
+                L79 1039.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 1036.5 L87, 1039.5 L79, 1042.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1099 Q25 1103
+                29 1103
+                L42 1103 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1100 L50, 1103 L42, 1106 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1118 L68.5 1147.5 Q68.5 1151.5
+                72.5 1151.5
+                L87 1151.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M25, 40 L25 1211 Q25 1215
+                29 1215
+                L42 1215 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1212 L50, 1215 L42, 1218 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1230 L68.5 1259.5 Q68.5 1263.5
+                72.5 1263.5
+                L79 1263.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 1260.5 L87, 1263.5 L79, 1266.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1323 Q25 1327
+                29 1327
+                L42 1327 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1324 L50, 1327 L42, 1330 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1342 L68.5 1371.5 Q68.5 1375.5
+                72.5 1375.5
+                L79 1375.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 1372.5 L87, 1375.5 L79, 1378.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1435 Q25 1439
+                29 1439
+                L42 1439 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1436 L50, 1439 L42, 1442 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1454 L68.5 1483.5 Q68.5 1487.5
+                72.5 1487.5
+                L79 1487.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 1484.5 L87, 1487.5 L79, 1490.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1547 Q25 1551
+                29 1551
+                L42 1551 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1548 L50, 1551 L42, 1554 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1566 L68.5 1595.5 Q68.5 1599.5
+                72.5 1599.5
+                L79 1599.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 1596.5 L87, 1599.5 L79, 1602.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1659 Q25 1663
+                29 1663
+                L42 1663 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1660 L50, 1663 L42, 1666 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1678 L68.5 1707.5 Q68.5 1711.5
+                72.5 1711.5
+                L79 1711.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 1708.5 L87, 1711.5 L79, 1714.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1771 Q25 1775
+                29 1775
+                L42 1775 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1772 L50, 1775 L42, 1778 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1790 L68.5 1819.5 Q68.5 1823.5
+                72.5 1823.5
+                L79 1823.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 1820.5 L87, 1823.5 L79, 1826.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 1838.5 L105.5 1868 Q105.5 1872
+                109.5 1872
+                L124 1872 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M105.5, 1838.5 L105.5 1916.5 Q105.5 1920.5
+                109.5 1920.5
+                L124 1920.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M105.5, 1838.5 L105.5 1965 Q105.5 1969
+                109.5 1969
+                L124 1969 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M25, 40 L25 2028.5 Q25 2032.5
+                29 2032.5
+                L42 2032.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 2029.5 L50, 2032.5 L42, 2035.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 2047.5 L68.5 2077 Q68.5 2081
+                72.5 2081
+                L79 2081 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 2078 L87, 2081 L79, 2084 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 2096 L105.5 2125.5 Q105.5 2129.5
+                109.5 2129.5
+                L116 2129.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 2126.5 L124, 2129.5 L116, 2132.5 Z" 
+        fill="#333" />
+            </g>
+            </svg>

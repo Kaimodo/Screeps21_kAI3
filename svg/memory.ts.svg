@@ -1,0 +1,4453 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+                width="583" height="9836" shape-rendering="optimizeSpeed">
+                
+            <g>
+                <rect x="50" y="80"
+            width="186" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="236" y1="90" x2="241" y2="90"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="236" y1="100" x2="241" y2="100"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M241, 81 L261, 95 L241, 109 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export memoryVersion</title>
+            <text x="65" y="100"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="100">export memoryVersion</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="128.5"
+            width="256.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>let memoryVersion: number = 2</title>
+            <text x="102" y="148.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="148.5">let memoryVersion: number = 2</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="192"
+            width="154.8" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="204.8" y1="202" x2="209.8" y2="202"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="204.8" y1="212" x2="209.8" y2="212"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M209.8, 193 L229.8, 207 L209.8, 221 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export undefined</title>
+            <text x="65" y="212"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="212">export undefined</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="240.5"
+            width="162.6" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ScreepsReturnCode</title>
+            <text x="102" y="260.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="260.5">ScreepsReturnCode</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="289"
+            width="131.39999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ERR_NOT_OWNER</title>
+            <text x="102" y="309"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="309">ERR_NOT_OWNER</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="337.5"
+            width="115.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ERR_NO_PATH</title>
+            <text x="102" y="357.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="357.5">ERR_NO_PATH</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="386"
+            width="147" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ERR_NAME_EXISTS</title>
+            <text x="102" y="406"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="406">ERR_NAME_EXISTS</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="434.5"
+            width="92.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ERR_BUSY</title>
+            <text x="102" y="454.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="454.5">ERR_BUSY</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="483"
+            width="131.39999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ERR_NOT_FOUND</title>
+            <text x="102" y="503"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="503">ERR_NOT_FOUND</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="531.5"
+            width="217.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ERR_NOT_ENOUGH_RESOURCES</title>
+            <text x="102" y="551.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="551.5">ERR_NOT_ENOUGH_RESOURCES</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="580"
+            width="193.79999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ERR_NOT_ENOUGH_ENERGY</title>
+            <text x="102" y="600"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="600">ERR_NOT_ENOUGH_ENERGY</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="628.5"
+            width="170.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ERR_INVALID_TARGET</title>
+            <text x="102" y="648.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="648.5">ERR_INVALID_TARGET</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="677"
+            width="92.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ERR_FULL</title>
+            <text x="102" y="697"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="697">ERR_FULL</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="725.5"
+            width="154.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ERR_NOT_IN_RANGE</title>
+            <text x="102" y="745.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="745.5">ERR_NOT_IN_RANGE</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="774"
+            width="154.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ERR_INVALID_ARGS</title>
+            <text x="102" y="794"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="794">ERR_INVALID_ARGS</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="822.5"
+            width="100.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ERR_TIRED</title>
+            <text x="102" y="842.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="842.5">ERR_TIRED</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="871"
+            width="147" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ERR_NO_BODYPART</title>
+            <text x="102" y="891"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="891">ERR_NO_BODYPART</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="919.5"
+            width="225" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ERR_NOT_ENOUGH_EXTENSIONS</title>
+            <text x="102" y="939.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="939.5">ERR_NOT_ENOUGH_EXTENSIONS</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="968"
+            width="170.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ERR_RCL_NOT_ENOUGH</title>
+            <text x="102" y="988"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="988">ERR_RCL_NOT_ENOUGH</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="1016.5"
+            width="170.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ERR_GCL_NOT_ENOUGH</title>
+            <text x="102" y="1036.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1036.5">ERR_GCL_NOT_ENOUGH</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="1065"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>GameMemory</title>
+            <text x="65" y="1085"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1085">GameMemory</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="1113.5"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>memVersion</title>
+            <text x="65" y="1133.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1133.5">memVersion</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="1162"
+            width="61.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>uuid</title>
+            <text x="65" y="1182"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1182">uuid</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="1210.5"
+            width="53.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>log</title>
+            <text x="65" y="1230.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1230.5">log</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="1259"
+            width="76.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>creeps</title>
+            <text x="65" y="1279"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1279">creeps</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="1307.5"
+            width="61.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>name</title>
+            <text x="65" y="1327.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1327.5">name</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="1356"
+            width="69" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>flags</title>
+            <text x="65" y="1376"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1376">flags</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="1404.5"
+            width="61.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>name</title>
+            <text x="65" y="1424.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1424.5">name</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="1453"
+            width="69" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>rooms</title>
+            <text x="65" y="1473"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1473">rooms</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="1501.5"
+            width="61.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>name</title>
+            <text x="65" y="1521.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1521.5">name</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="1550"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>RoomMemory</title>
+            <text x="65" y="1570"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1570">RoomMemory</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="1598.5"
+            width="76.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>spawns</title>
+            <text x="65" y="1618.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1618.5">spawns</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="1647"
+            width="61.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>name</title>
+            <text x="65" y="1667"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1667">name</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="1710.5"
+            width="154.8" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="204.8" y1="1720.5" x2="209.8" y2="1720.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="204.8" y1="1730.5" x2="209.8" y2="1730.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M209.8, 1711.5 L229.8, 1725.5 L209.8, 1739.5 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export undefined</title>
+            <text x="65" y="1730.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1730.5">export undefined</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="1759"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>CreepRoles</title>
+            <text x="102" y="1779"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1779">CreepRoles</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="1807.5"
+            width="147" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ROLE_UNASSIGNED</title>
+            <text x="102" y="1827.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1827.5">ROLE_UNASSIGNED</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="1856"
+            width="37.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>0</title>
+            <text x="102" y="1876"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1876">0</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="1904.5"
+            width="92.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ROLE_ALL</title>
+            <text x="102" y="1924.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1924.5">ROLE_ALL</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="1953"
+            width="123.6" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ROLE_BUILDER</title>
+            <text x="102" y="1973"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1973">ROLE_BUILDER</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="2001.5"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ROLE_MINER</title>
+            <text x="102" y="2021.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="2021.5">ROLE_MINER</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="2050"
+            width="147" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ROLE_MINEHAULER</title>
+            <text x="102" y="2070"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="2070">ROLE_MINEHAULER</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="2098.5"
+            width="115.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ROLE_HEALER</title>
+            <text x="102" y="2118.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="2118.5">ROLE_HEALER</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="2147"
+            width="123.6" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ROLE_FIGHTER</title>
+            <text x="102" y="2167"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="2167">ROLE_FIGHTER</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="2195.5"
+            width="115.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ROLE_RANGER</title>
+            <text x="102" y="2215.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="2215.5">ROLE_RANGER</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="2244"
+            width="123.6" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ROLE_CLAIMER</title>
+            <text x="102" y="2264"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="2264">ROLE_CLAIMER</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="2292.5"
+            width="154.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ROLE_REMOTEMINER</title>
+            <text x="102" y="2312.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="2312.5">ROLE_REMOTEMINER</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="2341"
+            width="193.79999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ROLE_REMOTEMINEHAULER</title>
+            <text x="102" y="2361"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="2361">ROLE_REMOTEMINEHAULER</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="2389.5"
+            width="170.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ROLE_CUSTOMCONTROL</title>
+            <text x="102" y="2409.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="2409.5">ROLE_CUSTOMCONTROL</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="2438"
+            width="131.39999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ROLE_UPGRADER</title>
+            <text x="102" y="2458"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="2458">ROLE_UPGRADER</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="2486.5"
+            width="193.79999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ROLE_UPGRADETRANSPORT</title>
+            <text x="102" y="2506.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="2506.5">ROLE_UPGRADETRANSPORT</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="2550"
+            width="178.2" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="228.2" y1="2560" x2="233.2" y2="2560"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="228.2" y1="2570" x2="233.2" y2="2570"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M233.2, 2551 L253.2, 2565 L233.2, 2579 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export roleToString</title>
+            <text x="65" y="2570"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="2570">export roleToString</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="87" y="2598.5"
+            width="252.79999999999998" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="97" y1="2598.5" x2="97" y2="2628.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="329.79999999999995" y1="2598.5" x2="329.79999999999995" y2="2628.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>function roleToString(job)</title>
+            <text x="112" y="2618.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="112" y="2618.5">function roleToString(job)</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="124" y="2647"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>CreepRoles</title>
+            <text x="139" y="2667"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="2667">CreepRoles</tspan>
+            </text>
+                   
+                   
+                </g><g>
+            <rect x="154" y="2710.5"
+            width="153.6" height="30"
+            rx="3" ry="3"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />                
+            <polygon points="124,2725.5 154,2695.5 184,2725.5 154,2755.5"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+            <title>switch (job)</title>
+            <text x="199" y="2730.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="199" y="2730.5">switch (job)</tspan>
+            </text>
+            
+            <text x="146.2" y="2730.5"
+        font-family="monospace" font-size="13" fill="#222">if</text> <text x="161.8" y="2757.45"
+        font-family="monospace" font-size="13" fill="#222">+</text> 
+        </g>
+                <g>
+                   <rect x="174" y="2765.5"
+            width="256.2" height="30"
+            rx="2" ry="2"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+                   <title>case CreepRoles.ROLE_BUILDER:</title>
+            <text x="189" y="2785.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="2785.5">case CreepRoles.ROLE_BUILDER:</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="211" y="2814"
+            width="193.79999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="404.79999999999995" y1="2824" x2="409.79999999999995" y2="2824"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="404.79999999999995" y1="2834" x2="409.79999999999995" y2="2834"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M409.79999999999995, 2818 L425.79999999999995, 2829 L409.79999999999995, 2840 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return &quot;ROLE_BUILDER&quot;</title>
+            <text x="226" y="2834"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="226" y="2834">return &quot;ROLE_BUILDER&quot;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="174" y="2862.5"
+            width="240.6" height="30"
+            rx="2" ry="2"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+                   <title>case CreepRoles.ROLE_MINER:</title>
+            <text x="189" y="2882.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="2882.5">case CreepRoles.ROLE_MINER:</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="211" y="2911"
+            width="178.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="389.2" y1="2921" x2="394.2" y2="2921"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="389.2" y1="2931" x2="394.2" y2="2931"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M394.2, 2915 L410.2, 2926 L394.2, 2937 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return &quot;ROLE_MINER&quot;</title>
+            <text x="226" y="2931"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="226" y="2931">return &quot;ROLE_MINER&quot;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="174" y="2959.5"
+            width="279.6" height="30"
+            rx="2" ry="2"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+                   <title>case CreepRoles.ROLE_MINEHAULER:</title>
+            <text x="189" y="2979.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="2979.5">case CreepRoles.ROLE_MINEHAULER:</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="211" y="3008"
+            width="217.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="428.2" y1="3018" x2="433.2" y2="3018"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="428.2" y1="3028" x2="433.2" y2="3028"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M433.2, 3012 L449.2, 3023 L433.2, 3034 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return &quot;ROLE_MINEHAULER&quot;</title>
+            <text x="226" y="3028"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="226" y="3028">return &quot;ROLE_MINEHAULER&quot;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="174" y="3056.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+                   <title>case CreepRoles.ROLE_HEALER:</title>
+            <text x="189" y="3076.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="3076.5">case CreepRoles.ROLE_HEALER:</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="211" y="3105"
+            width="186" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="397" y1="3115" x2="402" y2="3115"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="397" y1="3125" x2="402" y2="3125"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M402, 3109 L418, 3120 L402, 3131 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return &quot;ROLE_HEALER&quot;</title>
+            <text x="226" y="3125"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="226" y="3125">return &quot;ROLE_HEALER&quot;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="174" y="3153.5"
+            width="256.2" height="30"
+            rx="2" ry="2"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+                   <title>case CreepRoles.ROLE_FIGHTER:</title>
+            <text x="189" y="3173.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="3173.5">case CreepRoles.ROLE_FIGHTER:</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="211" y="3202"
+            width="193.79999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="404.79999999999995" y1="3212" x2="409.79999999999995" y2="3212"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="404.79999999999995" y1="3222" x2="409.79999999999995" y2="3222"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M409.79999999999995, 3206 L425.79999999999995, 3217 L409.79999999999995, 3228 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return &quot;ROLE_FIGHTER&quot;</title>
+            <text x="226" y="3222"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="226" y="3222">return &quot;ROLE_FIGHTER&quot;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="174" y="3250.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+                   <title>case CreepRoles.ROLE_RANGER:</title>
+            <text x="189" y="3270.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="3270.5">case CreepRoles.ROLE_RANGER:</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="211" y="3299"
+            width="186" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="397" y1="3309" x2="402" y2="3309"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="397" y1="3319" x2="402" y2="3319"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M402, 3303 L418, 3314 L402, 3325 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return &quot;ROLE_RANGER&quot;</title>
+            <text x="226" y="3319"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="226" y="3319">return &quot;ROLE_RANGER&quot;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="174" y="3347.5"
+            width="256.2" height="30"
+            rx="2" ry="2"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+                   <title>case CreepRoles.ROLE_CLAIMER:</title>
+            <text x="189" y="3367.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="3367.5">case CreepRoles.ROLE_CLAIMER:</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="211" y="3396"
+            width="193.79999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="404.79999999999995" y1="3406" x2="409.79999999999995" y2="3406"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="404.79999999999995" y1="3416" x2="409.79999999999995" y2="3416"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M409.79999999999995, 3400 L425.79999999999995, 3411 L409.79999999999995, 3422 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return &quot;ROLE_CLAIMER&quot;</title>
+            <text x="226" y="3416"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="226" y="3416">return &quot;ROLE_CLAIMER&quot;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="174" y="3444.5"
+            width="287.4" height="30"
+            rx="2" ry="2"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+                   <title>case CreepRoles.ROLE_REMOTEMINER:</title>
+            <text x="189" y="3464.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="3464.5">case CreepRoles.ROLE_REMOTEMINER:</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="211" y="3493"
+            width="225" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="436" y1="3503" x2="441" y2="3503"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="436" y1="3513" x2="441" y2="3513"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M441, 3497 L457, 3508 L441, 3519 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return &quot;ROLE_REMOTEMINER&quot;</title>
+            <text x="226" y="3513"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="226" y="3513">return &quot;ROLE_REMOTEMINER&quot;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="174" y="3541.5"
+            width="326.4" height="30"
+            rx="2" ry="2"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+                   <title>case CreepRoles.ROLE_REMOTEMINEHAULER:</title>
+            <text x="189" y="3561.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="3561.5">case CreepRoles.ROLE_REMOTEMINEHAULER:</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="211" y="3590"
+            width="264" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="475" y1="3600" x2="480" y2="3600"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="475" y1="3610" x2="480" y2="3610"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M480, 3594 L496, 3605 L480, 3616 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return &quot;ROLE_REMOTEMINEHAULER&quot;</title>
+            <text x="226" y="3610"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="226" y="3610">return &quot;ROLE_REMOTEMINEHAULER&quot;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="174" y="3638.5"
+            width="303" height="30"
+            rx="2" ry="2"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+                   <title>case CreepRoles.ROLE_CUSTOMCONTROL:</title>
+            <text x="189" y="3658.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="3658.5">case CreepRoles.ROLE_CUSTOMCONTROL:</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="211" y="3687"
+            width="240.60000000000002" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="451.6" y1="3697" x2="456.6" y2="3697"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="451.6" y1="3707" x2="456.6" y2="3707"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M456.6, 3691 L472.6, 3702 L456.6, 3713 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return &quot;ROLE_CUSTOMCONTROL&quot;</title>
+            <text x="226" y="3707"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="226" y="3707">return &quot;ROLE_CUSTOMCONTROL&quot;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="174" y="3735.5"
+            width="92.4" height="30"
+            rx="2" ry="2"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+                   <title>default:</title>
+            <text x="189" y="3755.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="3755.5">default:</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="211" y="3784"
+            width="193.79999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="404.79999999999995" y1="3794" x2="409.79999999999995" y2="3794"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="404.79999999999995" y1="3804" x2="409.79999999999995" y2="3804"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M409.79999999999995, 3788 L425.79999999999995, 3799 L409.79999999999995, 3810 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return &quot;unknown role&quot;</title>
+            <text x="226" y="3804"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="226" y="3804">return &quot;unknown role&quot;</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="50" y="3847.5"
+            width="154.8" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="204.8" y1="3857.5" x2="209.8" y2="3857.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="204.8" y1="3867.5" x2="209.8" y2="3867.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M209.8, 3848.5 L229.8, 3862.5 L209.8, 3876.5 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export undefined</title>
+            <text x="65" y="3867.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="3867.5">export undefined</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="3896"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>NodeChoice</title>
+            <text x="102" y="3916"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="3916">NodeChoice</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="3944.5"
+            width="37.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>x</title>
+            <text x="102" y="3964.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="3964.5">x</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="3993"
+            width="37.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>y</title>
+            <text x="102" y="4013"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4013">y</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="4041.5"
+            width="61.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>dist</title>
+            <text x="102" y="4061.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4061.5">dist</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="4105"
+            width="154.8" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="204.8" y1="4115" x2="209.8" y2="4115"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="204.8" y1="4125" x2="209.8" y2="4125"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M209.8, 4106 L229.8, 4120 L209.8, 4134 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export undefined</title>
+            <text x="65" y="4125"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="4125">export undefined</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="4153.5"
+            width="193.79999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>NodeContainerIdChoice</title>
+            <text x="102" y="4173.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4173.5">NodeContainerIdChoice</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="4202"
+            width="45.6" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>id</title>
+            <text x="102" y="4222"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4222">id</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="4250.5"
+            width="69" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>count</title>
+            <text x="102" y="4270.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4270.5">count</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="4314"
+            width="154.8" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="204.8" y1="4324" x2="209.8" y2="4324"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="204.8" y1="4334" x2="209.8" y2="4334"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M209.8, 4315 L229.8, 4329 L209.8, 4343 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export undefined</title>
+            <text x="65" y="4334"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="4334">export undefined</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="4362.5"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>MyPosition</title>
+            <text x="102" y="4382.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4382.5">MyPosition</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="4411"
+            width="37.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>x</title>
+            <text x="102" y="4431"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4431">x</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="4459.5"
+            width="37.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>y</title>
+            <text x="102" y="4479.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4479.5">y</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="4523"
+            width="154.8" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="204.8" y1="4533" x2="209.8" y2="4533"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="204.8" y1="4543" x2="209.8" y2="4543"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M209.8, 4524 L229.8, 4538 L209.8, 4552 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export undefined</title>
+            <text x="65" y="4543"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="4543">export undefined</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="4571.5"
+            width="170.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>PositionPlusTarget</title>
+            <text x="102" y="4591.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4591.5">PositionPlusTarget</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="4620"
+            width="37.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>x</title>
+            <text x="102" y="4640"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4640">x</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="4668.5"
+            width="37.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>y</title>
+            <text x="102" y="4688.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4688.5">y</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="4717"
+            width="92.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>targetId</title>
+            <text x="102" y="4737"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4737">targetId</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="4780.5"
+            width="154.8" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="204.8" y1="4790.5" x2="209.8" y2="4790.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="204.8" y1="4800.5" x2="209.8" y2="4800.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M209.8, 4781.5 L229.8, 4795.5 L209.8, 4809.5 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export undefined</title>
+            <text x="65" y="4800.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="4800.5">export undefined</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="4829"
+            width="201.6" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>RoomPositionPlusTarget</title>
+            <text x="102" y="4849"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4849">RoomPositionPlusTarget</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="4877.5"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>roomTarget</title>
+            <text x="102" y="4897.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4897.5">roomTarget</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="4926"
+            width="37.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>x</title>
+            <text x="102" y="4946"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4946">x</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="4974.5"
+            width="37.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>y</title>
+            <text x="102" y="4994.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4994.5">y</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="5023"
+            width="92.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>targetId</title>
+            <text x="102" y="5043"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="5043">targetId</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="5086.5"
+            width="154.8" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="204.8" y1="5096.5" x2="209.8" y2="5096.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="204.8" y1="5106.5" x2="209.8" y2="5106.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M209.8, 5087.5 L229.8, 5101.5 L209.8, 5115.5 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export undefined</title>
+            <text x="65" y="5106.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="5106.5">export undefined</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="5135"
+            width="100.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>MinerTask</title>
+            <text x="102" y="5155"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="5155">MinerTask</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="5183.5"
+            width="76.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>taskId</title>
+            <text x="102" y="5203.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="5203.5">taskId</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="5232"
+            width="131.39999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>minerPosition</title>
+            <text x="102" y="5252"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="5252">minerPosition</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="5280.5"
+            width="170.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>PositionPlusTarget</title>
+            <text x="102" y="5300.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="5300.5">PositionPlusTarget</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="5329"
+            width="162.6" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>assignedMinerName</title>
+            <text x="102" y="5349"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="5349">assignedMinerName</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="5377.5"
+            width="147" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>sourceContainer</title>
+            <text x="102" y="5397.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="5397.5">sourceContainer</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="5426"
+            width="170.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>PositionPlusTarget</title>
+            <text x="102" y="5446"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="5446">PositionPlusTarget</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="5489.5"
+            width="154.8" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="204.8" y1="5499.5" x2="209.8" y2="5499.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="204.8" y1="5509.5" x2="209.8" y2="5509.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M209.8, 5490.5 L229.8, 5504.5 L209.8, 5518.5 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export undefined</title>
+            <text x="65" y="5509.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="5509.5">export undefined</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="87" y="5538"
+            width="174.8" height="30"
+            style="fill:#80cbc4; stroke:#444; stroke-width:1" />
+                    
+                <line x1="97" y1="5538" x2="97" y2="5568"
+                style="fill:#80cbc4; stroke:#444; stroke-width:1" />
+                <line x1="251.8" y1="5538" x2="251.8" y2="5568"
+                style="fill:#80cbc4; stroke:#444; stroke-width:1" />
+             
+                <title>class RoomState </title>
+            <text x="112" y="5558"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="112" y="5558">class RoomState </tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="124" y="5586.5"
+            width="76.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>towers</title>
+            <text x="139" y="5606.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="5606.5">towers</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="5635"
+            width="139.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>StructureTower</title>
+            <text x="139" y="5655"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="5655">StructureTower</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="5683.5"
+            width="69" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>rooms</title>
+            <text x="139" y="5703.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="5703.5">rooms</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="5732"
+            width="61.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>Room</title>
+            <text x="139" y="5752"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="5752">Room</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="5780.5"
+            width="76.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>creeps</title>
+            <text x="139" y="5800.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="5800.5">creeps</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="5829"
+            width="69" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>Creep</title>
+            <text x="139" y="5849"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="5849">Creep</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="5877.5"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>creepCount</title>
+            <text x="139" y="5897.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="5897.5">creepCount</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="5926"
+            width="37.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>0</title>
+            <text x="139" y="5946"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="5946">0</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="5974.5"
+            width="76.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>miners</title>
+            <text x="139" y="5994.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="5994.5">miners</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="6023"
+            width="69" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>Creep</title>
+            <text x="139" y="6043"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="6043">Creep</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="6071.5"
+            width="92.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>builders</title>
+            <text x="139" y="6091.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="6091.5">builders</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="6120"
+            width="69" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>Creep</title>
+            <text x="139" y="6140"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="6140">Creep</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="6168.5"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>structures</title>
+            <text x="139" y="6188.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="6188.5">structures</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="6217"
+            width="100.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>Structure</title>
+            <text x="139" y="6237"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="6237">Structure</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="6265.5"
+            width="115.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>controllers</title>
+            <text x="139" y="6285.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="6285.5">controllers</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="6314"
+            width="178.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>StructureController</title>
+            <text x="139" y="6334"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="6334">StructureController</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="6362.5"
+            width="76.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>spawns</title>
+            <text x="139" y="6382.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="6382.5">spawns</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="6411"
+            width="139.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>StructureSpawn</title>
+            <text x="139" y="6431"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="6431">StructureSpawn</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="6459.5"
+            width="84.6" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>sources</title>
+            <text x="139" y="6479.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="6479.5">sources</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="6508"
+            width="76.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>Source</title>
+            <text x="139" y="6528"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="6528">Source</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="6556.5"
+            width="92.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>storages</title>
+            <text x="139" y="6576.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="6576.5">storages</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="6605"
+            width="154.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>StructureStorage</title>
+            <text x="139" y="6625"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="6625">StructureStorage</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="6653.5"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>containers</title>
+            <text x="139" y="6673.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="6673.5">containers</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="6702"
+            width="170.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>StructureContainer</title>
+            <text x="139" y="6722"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="6722">StructureContainer</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="6750.5"
+            width="162.6" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>constructionSites</title>
+            <text x="139" y="6770.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="6770.5">constructionSites</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="6799"
+            width="154.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>ConstructionSite</title>
+            <text x="139" y="6819"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="6819">ConstructionSite</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="6847.5"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>extensions</title>
+            <text x="139" y="6867.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="6867.5">extensions</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="6896"
+            width="170.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>StructureExtension</title>
+            <text x="139" y="6916"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="6916">StructureExtension</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="6944.5"
+            width="186" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>notRoadNeedingRepair</title>
+            <text x="139" y="6964.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="6964.5">notRoadNeedingRepair</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="6993"
+            width="100.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>Structure</title>
+            <text x="139" y="7013"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="7013">Structure</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="7056.5"
+            width="154.8" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="204.8" y1="7066.5" x2="209.8" y2="7066.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="204.8" y1="7076.5" x2="209.8" y2="7076.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M209.8, 7057.5 L229.8, 7071.5 L209.8, 7085.5 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export roomState</title>
+            <text x="65" y="7076.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="7076.5">export roomState</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="7105"
+            width="271.79999999999995" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>let roomState = new RoomState()</title>
+            <text x="102" y="7125"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="7125">let roomState = new RoomState()</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="7153.5"
+            width="147" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>new RoomState()</title>
+            <text x="139" y="7173.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="7173.5">new RoomState()</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="7217"
+            width="154.8" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="204.8" y1="7227" x2="209.8" y2="7227"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="204.8" y1="7237" x2="209.8" y2="7237"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M209.8, 7218 L229.8, 7232 L209.8, 7246 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export undefined</title>
+            <text x="65" y="7237"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="7237">export undefined</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="87" y="7265.5"
+            width="182.6" height="30"
+            style="fill:#80cbc4; stroke:#444; stroke-width:1" />
+                    
+                <line x1="97" y1="7265.5" x2="97" y2="7295.5"
+                style="fill:#80cbc4; stroke:#444; stroke-width:1" />
+                <line x1="259.6" y1="7265.5" x2="259.6" y2="7295.5"
+                style="fill:#80cbc4; stroke:#444; stroke-width:1" />
+             
+                <title>class RoomMemory </title>
+            <text x="112" y="7285.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="112" y="7285.5">class RoomMemory </tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="124" y="7314"
+            width="61.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>room</title>
+            <text x="139" y="7334"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="7334">room</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="7362.5"
+            width="61.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>Room</title>
+            <text x="139" y="7382.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="7382.5">Room</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="7411"
+            width="92.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>roomName</title>
+            <text x="139" y="7431"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="7431">roomName</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="7459.5"
+            width="100.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>techLevel</title>
+            <text x="139" y="7479.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="7479.5">techLevel</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="7508"
+            width="115.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>energyLevel</title>
+            <text x="139" y="7528"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="7528">energyLevel</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="7556.5"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>minerTasks</title>
+            <text x="139" y="7576.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="7576.5">minerTasks</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="7605"
+            width="100.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>MinerTask</title>
+            <text x="139" y="7625"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="7625">MinerTask</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="7653.5"
+            width="147" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>desiredBuilders</title>
+            <text x="139" y="7673.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="7673.5">desiredBuilders</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="7702"
+            width="131.39999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>energySources</title>
+            <text x="139" y="7722"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="7722">energySources</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="7750.5"
+            width="170.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>PositionPlusTarget</title>
+            <text x="139" y="7770.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="7770.5">PositionPlusTarget</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="7799"
+            width="170.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>containerPositions</title>
+            <text x="139" y="7819"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="7819">containerPositions</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="7847.5"
+            width="170.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>PositionPlusTarget</title>
+            <text x="139" y="7867.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="7867.5">PositionPlusTarget</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="7896"
+            width="139.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>buildsThisTick</title>
+            <text x="139" y="7916"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="7916">buildsThisTick</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="7944.5"
+            width="186" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>desiredWallHitPoints</title>
+            <text x="139" y="7964.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="7964.5">desiredWallHitPoints</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="7993"
+            width="186" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>desiredRampHitPoints</title>
+            <text x="139" y="8013"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="8013">desiredRampHitPoints</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="8041.5"
+            width="100.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>spawnText</title>
+            <text x="139" y="8061.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="8061.5">spawnText</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="8090"
+            width="115.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>spawnTextId</title>
+            <text x="139" y="8110"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="8110">spawnTextId</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="8138.5"
+            width="186" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>extensionIdsAssigned</title>
+            <text x="139" y="8158.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="8158.5">extensionIdsAssigned</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="8202"
+            width="154.8" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="204.8" y1="8212" x2="209.8" y2="8212"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="204.8" y1="8222" x2="209.8" y2="8222"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M209.8, 8203 L229.8, 8217 L209.8, 8231 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export undefined</title>
+            <text x="65" y="8222"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="8222">export undefined</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="8250.5"
+            width="131.39999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>MyCreepMemory</title>
+            <text x="102" y="8270.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="8270.5">MyCreepMemory</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="8299"
+            width="61.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>name</title>
+            <text x="102" y="8319"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="8319">name</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="8347.5"
+            width="61.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>role</title>
+            <text x="102" y="8367.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="8367.5">role</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="8396"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>CreepRoles</title>
+            <text x="102" y="8416"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="8416">CreepRoles</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="8444.5"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>roleString</title>
+            <text x="102" y="8464.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="8464.5">roleString</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="8493"
+            width="53.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>log</title>
+            <text x="102" y="8513"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="8513">log</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="8541.5"
+            width="100.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>gathering</title>
+            <text x="102" y="8561.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="8561.5">gathering</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="8590"
+            width="170.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>assignedMineTaskId</title>
+            <text x="102" y="8610"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="8610">assignedMineTaskId</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="8638.5"
+            width="178.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>assignedContainerId</title>
+            <text x="102" y="8658.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="8658.5">assignedContainerId</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="8687"
+            width="154.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>assignedTargetId</title>
+            <text x="102" y="8707"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="8707">assignedTargetId</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="8735.5"
+            width="193.79999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>isUpgradingController</title>
+            <text x="102" y="8755.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="8755.5">isUpgradingController</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="8784"
+            width="139.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>repairTargetId</title>
+            <text x="102" y="8804"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="8804">repairTargetId</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="8847.5"
+            width="100.2" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="150.2" y1="8857.5" x2="155.2" y2="8857.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="150.2" y1="8867.5" x2="155.2" y2="8867.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M155.2, 8848.5 L175.2, 8862.5 L155.2, 8876.5 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export cm</title>
+            <text x="65" y="8867.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="8867.5">export cm</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="87" y="8896"
+            width="190.4" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="97" y1="8896" x2="97" y2="8926"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="267.4" y1="8896" x2="267.4" y2="8926"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>function cm(creep)</title>
+            <text x="112" y="8916"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="112" y="8916">function cm(creep)</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="124" y="8944.5"
+            width="69" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>Creep</title>
+            <text x="139" y="8964.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="8964.5">Creep</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="124" y="8993"
+            width="412.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="536.2" y1="9003" x2="541.2" y2="9003"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="536.2" y1="9013" x2="541.2" y2="9013"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M541.2, 8997 L557.2, 9008 L541.2, 9019 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return (creep.memory as unknown) as MyCreepMemory</title>
+            <text x="139" y="9013"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="9013">return (creep.memory as unknown) as MyCreepMemory</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="124" y="9041.5"
+            width="131.39999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>MyCreepMemory</title>
+            <text x="139" y="9061.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="9061.5">MyCreepMemory</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="9105"
+            width="92.4" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="142.4" y1="9115" x2="147.4" y2="9115"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="142.4" y1="9125" x2="147.4" y2="9125"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M147.4, 9106 L167.4, 9120 L147.4, 9134 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export m</title>
+            <text x="65" y="9125"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="9125">export m</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="87" y="9153.5"
+            width="143.6" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="97" y1="9153.5" x2="97" y2="9183.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="220.6" y1="9153.5" x2="220.6" y2="9183.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>function m()</title>
+            <text x="112" y="9173.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="112" y="9173.5">function m()</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="124" y="9202"
+            width="310.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="434.8" y1="9212" x2="439.8" y2="9212"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="434.8" y1="9222" x2="439.8" y2="9222"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M439.8, 9206 L455.8, 9217 L439.8, 9228 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return (Memory as any) as GameMemory</title>
+            <text x="139" y="9222"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="9222">return (Memory as any) as GameMemory</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="124" y="9250.5"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>GameMemory</title>
+            <text x="139" y="9270.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="9270.5">GameMemory</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="9314"
+            width="92.4" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="142.4" y1="9324" x2="147.4" y2="9324"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="142.4" y1="9334" x2="147.4" y2="9334"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M147.4, 9315 L167.4, 9329 L147.4, 9343 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export l</title>
+            <text x="65" y="9334"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="9334">export l</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="87" y="9362.5"
+            width="182.6" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="97" y1="9362.5" x2="97" y2="9392.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="259.6" y1="9362.5" x2="259.6" y2="9392.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>function l(cmLog)</title>
+            <text x="112" y="9382.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="112" y="9382.5">function l(cmLog)</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="124" y="9411"
+            width="131.39999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>MyCreepMemory</title>
+            <text x="139" y="9431"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="9431">MyCreepMemory</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="124" y="9459.5"
+            width="217.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="341.2" y1="9469.5" x2="346.2" y2="9469.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="341.2" y1="9479.5" x2="346.2" y2="9479.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M346.2, 9463.5 L362.2, 9474.5 L346.2, 9485.5 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return `${cmLog.name}: `</title>
+            <text x="139" y="9479.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="9479.5">return `${cmLog.name}: `</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="50" y="9523"
+            width="186" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="236" y1="9533" x2="241" y2="9533"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="236" y1="9543" x2="241" y2="9543"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M241, 9524 L261, 9538 L241, 9552 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export setMemVersion</title>
+            <text x="65" y="9543"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="9543">export setMemVersion</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="87" y="9571.5"
+            width="276.2" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="97" y1="9571.5" x2="97" y2="9601.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="353.2" y1="9571.5" x2="353.2" y2="9601.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>function setMemVersion(value)</title>
+            <text x="112" y="9591.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="112" y="9591.5">function setMemVersion(value)</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="124" y="9620"
+            width="193.79999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>memoryVersion = value</title>
+            <text x="139" y="9640"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="9640">memoryVersion = value</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="9683.5"
+            width="186" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="236" y1="9693.5" x2="241" y2="9693.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="236" y1="9703.5" x2="241" y2="9703.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M241, 9684.5 L261, 9698.5 L241, 9712.5 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export getMemVersion</title>
+            <text x="65" y="9703.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="9703.5">export getMemVersion</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="87" y="9732"
+            width="237.2" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="97" y1="9732" x2="97" y2="9762"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="314.2" y1="9732" x2="314.2" y2="9762"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>function getMemVersion()</title>
+            <text x="112" y="9752"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="112" y="9752">function getMemVersion()</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="124" y="9780.5"
+            width="186" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="310" y1="9790.5" x2="315" y2="9790.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="310" y1="9800.5" x2="315" y2="9800.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M315, 9784.5 L331, 9795.5 L315, 9806.5 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return memoryVersion</title>
+            <text x="139" y="9800.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="9800.5">return memoryVersion</tspan>
+            </text>
+                
+            </g>
+            <g>
+               <rect x="25" y="13.75"
+            width="216.6" height="24"
+            style="fill:#fff59d; stroke:#444; stroke-width:1" />
+               <circle cx="25" cy="25" r="15"
+        style="fill:#fff59d; stroke:#444; stroke-width:1" />
+               <title>Program: source module</title>
+            <text x="55" y="30"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="55" y="30">Program: source module</tspan>
+            </text>
+            </g>
+            <g>
+               <path d="M25, 40 L25 91 Q25 95
+                29 95
+                L42 95 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 92 L50, 95 L42, 98 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 110 L68.5 139.5 Q68.5 143.5
+                72.5 143.5
+                L79 143.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 140.5 L87, 143.5 L79, 146.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 203 Q25 207
+                29 207
+                L42 207 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 204 L50, 207 L42, 210 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 222 L68.5 251.5 Q68.5 255.5
+                72.5 255.5
+                L79 255.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 252.5 L87, 255.5 L79, 258.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 222 L68.5 300 Q68.5 304
+                72.5 304
+                L79 304 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 301 L87, 304 L79, 307 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 222 L68.5 348.5 Q68.5 352.5
+                72.5 352.5
+                L79 352.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 349.5 L87, 352.5 L79, 355.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 222 L68.5 397 Q68.5 401
+                72.5 401
+                L79 401 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 398 L87, 401 L79, 404 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 222 L68.5 445.5 Q68.5 449.5
+                72.5 449.5
+                L79 449.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 446.5 L87, 449.5 L79, 452.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 222 L68.5 494 Q68.5 498
+                72.5 498
+                L79 498 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 495 L87, 498 L79, 501 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 222 L68.5 542.5 Q68.5 546.5
+                72.5 546.5
+                L79 546.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 543.5 L87, 546.5 L79, 549.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 222 L68.5 591 Q68.5 595
+                72.5 595
+                L79 595 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 592 L87, 595 L79, 598 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 222 L68.5 639.5 Q68.5 643.5
+                72.5 643.5
+                L79 643.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 640.5 L87, 643.5 L79, 646.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 222 L68.5 688 Q68.5 692
+                72.5 692
+                L79 692 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 689 L87, 692 L79, 695 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 222 L68.5 736.5 Q68.5 740.5
+                72.5 740.5
+                L79 740.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 737.5 L87, 740.5 L79, 743.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 222 L68.5 785 Q68.5 789
+                72.5 789
+                L79 789 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 786 L87, 789 L79, 792 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 222 L68.5 833.5 Q68.5 837.5
+                72.5 837.5
+                L79 837.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 834.5 L87, 837.5 L79, 840.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 222 L68.5 882 Q68.5 886
+                72.5 886
+                L79 886 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 883 L87, 886 L79, 889 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 222 L68.5 930.5 Q68.5 934.5
+                72.5 934.5
+                L79 934.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 931.5 L87, 934.5 L79, 937.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 222 L68.5 979 Q68.5 983
+                72.5 983
+                L79 983 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 980 L87, 983 L79, 986 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 222 L68.5 1027.5 Q68.5 1031.5
+                72.5 1031.5
+                L79 1031.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 1028.5 L87, 1031.5 L79, 1034.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1076 Q25 1080
+                29 1080
+                L42 1080 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1077 L50, 1080 L42, 1083 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1124.5 Q25 1128.5
+                29 1128.5
+                L42 1128.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1125.5 L50, 1128.5 L42, 1131.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1173 Q25 1177
+                29 1177
+                L42 1177 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1174 L50, 1177 L42, 1180 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1221.5 Q25 1225.5
+                29 1225.5
+                L42 1225.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1222.5 L50, 1225.5 L42, 1228.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1270 Q25 1274
+                29 1274
+                L42 1274 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1271 L50, 1274 L42, 1277 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1318.5 Q25 1322.5
+                29 1322.5
+                L42 1322.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1319.5 L50, 1322.5 L42, 1325.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1367 Q25 1371
+                29 1371
+                L42 1371 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1368 L50, 1371 L42, 1374 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1415.5 Q25 1419.5
+                29 1419.5
+                L42 1419.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1416.5 L50, 1419.5 L42, 1422.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1464 Q25 1468
+                29 1468
+                L42 1468 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1465 L50, 1468 L42, 1471 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1512.5 Q25 1516.5
+                29 1516.5
+                L42 1516.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1513.5 L50, 1516.5 L42, 1519.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1561 Q25 1565
+                29 1565
+                L42 1565 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1562 L50, 1565 L42, 1568 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1609.5 Q25 1613.5
+                29 1613.5
+                L42 1613.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1610.5 L50, 1613.5 L42, 1616.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1658 Q25 1662
+                29 1662
+                L42 1662 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1659 L50, 1662 L42, 1665 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1721.5 Q25 1725.5
+                29 1725.5
+                L42 1725.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1722.5 L50, 1725.5 L42, 1728.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1740.5 L68.5 1770 Q68.5 1774
+                72.5 1774
+                L79 1774 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 1771 L87, 1774 L79, 1777 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1740.5 L68.5 1818.5 Q68.5 1822.5
+                72.5 1822.5
+                L79 1822.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 1819.5 L87, 1822.5 L79, 1825.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1740.5 L68.5 1867 Q68.5 1871
+                72.5 1871
+                L79 1871 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 1868 L87, 1871 L79, 1874 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1740.5 L68.5 1915.5 Q68.5 1919.5
+                72.5 1919.5
+                L79 1919.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 1916.5 L87, 1919.5 L79, 1922.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1740.5 L68.5 1964 Q68.5 1968
+                72.5 1968
+                L79 1968 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 1965 L87, 1968 L79, 1971 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1740.5 L68.5 2012.5 Q68.5 2016.5
+                72.5 2016.5
+                L79 2016.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 2013.5 L87, 2016.5 L79, 2019.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1740.5 L68.5 2061 Q68.5 2065
+                72.5 2065
+                L79 2065 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 2062 L87, 2065 L79, 2068 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1740.5 L68.5 2109.5 Q68.5 2113.5
+                72.5 2113.5
+                L79 2113.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 2110.5 L87, 2113.5 L79, 2116.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1740.5 L68.5 2158 Q68.5 2162
+                72.5 2162
+                L79 2162 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 2159 L87, 2162 L79, 2165 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1740.5 L68.5 2206.5 Q68.5 2210.5
+                72.5 2210.5
+                L79 2210.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 2207.5 L87, 2210.5 L79, 2213.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1740.5 L68.5 2255 Q68.5 2259
+                72.5 2259
+                L79 2259 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 2256 L87, 2259 L79, 2262 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1740.5 L68.5 2303.5 Q68.5 2307.5
+                72.5 2307.5
+                L79 2307.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 2304.5 L87, 2307.5 L79, 2310.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1740.5 L68.5 2352 Q68.5 2356
+                72.5 2356
+                L79 2356 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 2353 L87, 2356 L79, 2359 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1740.5 L68.5 2400.5 Q68.5 2404.5
+                72.5 2404.5
+                L79 2404.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 2401.5 L87, 2404.5 L79, 2407.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1740.5 L68.5 2449 Q68.5 2453
+                72.5 2453
+                L79 2453 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 2450 L87, 2453 L79, 2456 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1740.5 L68.5 2497.5 Q68.5 2501.5
+                72.5 2501.5
+                L79 2501.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 2498.5 L87, 2501.5 L79, 2504.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 2561 Q25 2565
+                29 2565
+                L42 2565 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 2562 L50, 2565 L42, 2568 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 2580 L68.5 2609.5 Q68.5 2613.5
+                72.5 2613.5
+                L79 2613.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 2610.5 L87, 2613.5 L79, 2616.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 2628.5 L105.5 2658 Q105.5 2662
+                109.5 2662
+                L116 2662 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 2659 L124, 2662 L116, 2665 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 2628.5 L105.5 2721.5 Q105.5 2725.5
+                109.5 2725.5
+                L116 2725.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 2722.5 L124, 2725.5 L116, 2728.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M154, 2755.5 L154 2776.5 Q154 2780.5
+                158 2780.5
+                L166 2780.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 2777.5 L174, 2780.5 L166, 2783.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M192.5, 2795.5 L192.5 2825 Q192.5 2829
+                196.5 2829
+                L203 2829 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M203, 2826 L211, 2829 L203, 2832 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M154, 2755.5 L154 2873.5 Q154 2877.5
+                158 2877.5
+                L166 2877.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 2874.5 L174, 2877.5 L166, 2880.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M192.5, 2892.5 L192.5 2922 Q192.5 2926
+                196.5 2926
+                L203 2926 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M203, 2923 L211, 2926 L203, 2929 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M154, 2755.5 L154 2970.5 Q154 2974.5
+                158 2974.5
+                L166 2974.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 2971.5 L174, 2974.5 L166, 2977.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M192.5, 2989.5 L192.5 3019 Q192.5 3023
+                196.5 3023
+                L203 3023 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M203, 3020 L211, 3023 L203, 3026 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M154, 2755.5 L154 3067.5 Q154 3071.5
+                158 3071.5
+                L166 3071.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 3068.5 L174, 3071.5 L166, 3074.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M192.5, 3086.5 L192.5 3116 Q192.5 3120
+                196.5 3120
+                L203 3120 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M203, 3117 L211, 3120 L203, 3123 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M154, 2755.5 L154 3164.5 Q154 3168.5
+                158 3168.5
+                L166 3168.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 3165.5 L174, 3168.5 L166, 3171.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M192.5, 3183.5 L192.5 3213 Q192.5 3217
+                196.5 3217
+                L203 3217 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M203, 3214 L211, 3217 L203, 3220 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M154, 2755.5 L154 3261.5 Q154 3265.5
+                158 3265.5
+                L166 3265.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 3262.5 L174, 3265.5 L166, 3268.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M192.5, 3280.5 L192.5 3310 Q192.5 3314
+                196.5 3314
+                L203 3314 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M203, 3311 L211, 3314 L203, 3317 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M154, 2755.5 L154 3358.5 Q154 3362.5
+                158 3362.5
+                L166 3362.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 3359.5 L174, 3362.5 L166, 3365.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M192.5, 3377.5 L192.5 3407 Q192.5 3411
+                196.5 3411
+                L203 3411 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M203, 3408 L211, 3411 L203, 3414 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M154, 2755.5 L154 3455.5 Q154 3459.5
+                158 3459.5
+                L166 3459.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 3456.5 L174, 3459.5 L166, 3462.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M192.5, 3474.5 L192.5 3504 Q192.5 3508
+                196.5 3508
+                L203 3508 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M203, 3505 L211, 3508 L203, 3511 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M154, 2755.5 L154 3552.5 Q154 3556.5
+                158 3556.5
+                L166 3556.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 3553.5 L174, 3556.5 L166, 3559.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M192.5, 3571.5 L192.5 3601 Q192.5 3605
+                196.5 3605
+                L203 3605 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M203, 3602 L211, 3605 L203, 3608 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M154, 2755.5 L154 3649.5 Q154 3653.5
+                158 3653.5
+                L166 3653.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 3650.5 L174, 3653.5 L166, 3656.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M192.5, 3668.5 L192.5 3698 Q192.5 3702
+                196.5 3702
+                L203 3702 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M203, 3699 L211, 3702 L203, 3705 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M154, 2755.5 L154 3746.5 Q154 3750.5
+                158 3750.5
+                L166 3750.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 3747.5 L174, 3750.5 L166, 3753.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M192.5, 3765.5 L192.5 3795 Q192.5 3799
+                196.5 3799
+                L203 3799 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M203, 3796 L211, 3799 L203, 3802 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 3858.5 Q25 3862.5
+                29 3862.5
+                L42 3862.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 3859.5 L50, 3862.5 L42, 3865.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 3877.5 L68.5 3907 Q68.5 3911
+                72.5 3911
+                L79 3911 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 3908 L87, 3911 L79, 3914 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 3877.5 L68.5 3955.5 Q68.5 3959.5
+                72.5 3959.5
+                L79 3959.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 3956.5 L87, 3959.5 L79, 3962.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 3877.5 L68.5 4004 Q68.5 4008
+                72.5 4008
+                L79 4008 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4005 L87, 4008 L79, 4011 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 3877.5 L68.5 4052.5 Q68.5 4056.5
+                72.5 4056.5
+                L79 4056.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4053.5 L87, 4056.5 L79, 4059.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 4116 Q25 4120
+                29 4120
+                L42 4120 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 4117 L50, 4120 L42, 4123 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 4135 L68.5 4164.5 Q68.5 4168.5
+                72.5 4168.5
+                L79 4168.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4165.5 L87, 4168.5 L79, 4171.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 4135 L68.5 4213 Q68.5 4217
+                72.5 4217
+                L79 4217 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4214 L87, 4217 L79, 4220 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 4135 L68.5 4261.5 Q68.5 4265.5
+                72.5 4265.5
+                L79 4265.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4262.5 L87, 4265.5 L79, 4268.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 4325 Q25 4329
+                29 4329
+                L42 4329 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 4326 L50, 4329 L42, 4332 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 4344 L68.5 4373.5 Q68.5 4377.5
+                72.5 4377.5
+                L79 4377.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4374.5 L87, 4377.5 L79, 4380.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 4344 L68.5 4422 Q68.5 4426
+                72.5 4426
+                L79 4426 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4423 L87, 4426 L79, 4429 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 4344 L68.5 4470.5 Q68.5 4474.5
+                72.5 4474.5
+                L79 4474.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4471.5 L87, 4474.5 L79, 4477.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 4534 Q25 4538
+                29 4538
+                L42 4538 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 4535 L50, 4538 L42, 4541 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 4553 L68.5 4582.5 Q68.5 4586.5
+                72.5 4586.5
+                L79 4586.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4583.5 L87, 4586.5 L79, 4589.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 4553 L68.5 4631 Q68.5 4635
+                72.5 4635
+                L79 4635 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4632 L87, 4635 L79, 4638 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 4553 L68.5 4679.5 Q68.5 4683.5
+                72.5 4683.5
+                L79 4683.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4680.5 L87, 4683.5 L79, 4686.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 4553 L68.5 4728 Q68.5 4732
+                72.5 4732
+                L79 4732 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4729 L87, 4732 L79, 4735 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 4791.5 Q25 4795.5
+                29 4795.5
+                L42 4795.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 4792.5 L50, 4795.5 L42, 4798.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 4810.5 L68.5 4840 Q68.5 4844
+                72.5 4844
+                L79 4844 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4841 L87, 4844 L79, 4847 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 4810.5 L68.5 4888.5 Q68.5 4892.5
+                72.5 4892.5
+                L79 4892.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4889.5 L87, 4892.5 L79, 4895.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 4810.5 L68.5 4937 Q68.5 4941
+                72.5 4941
+                L79 4941 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4938 L87, 4941 L79, 4944 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 4810.5 L68.5 4985.5 Q68.5 4989.5
+                72.5 4989.5
+                L79 4989.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4986.5 L87, 4989.5 L79, 4992.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 4810.5 L68.5 5034 Q68.5 5038
+                72.5 5038
+                L79 5038 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 5035 L87, 5038 L79, 5041 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 5097.5 Q25 5101.5
+                29 5101.5
+                L42 5101.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 5098.5 L50, 5101.5 L42, 5104.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 5116.5 L68.5 5146 Q68.5 5150
+                72.5 5150
+                L79 5150 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 5147 L87, 5150 L79, 5153 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 5116.5 L68.5 5194.5 Q68.5 5198.5
+                72.5 5198.5
+                L79 5198.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 5195.5 L87, 5198.5 L79, 5201.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 5116.5 L68.5 5243 Q68.5 5247
+                72.5 5247
+                L79 5247 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 5244 L87, 5247 L79, 5250 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 5116.5 L68.5 5291.5 Q68.5 5295.5
+                72.5 5295.5
+                L79 5295.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 5292.5 L87, 5295.5 L79, 5298.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 5116.5 L68.5 5340 Q68.5 5344
+                72.5 5344
+                L79 5344 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 5341 L87, 5344 L79, 5347 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 5116.5 L68.5 5388.5 Q68.5 5392.5
+                72.5 5392.5
+                L79 5392.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 5389.5 L87, 5392.5 L79, 5395.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 5116.5 L68.5 5437 Q68.5 5441
+                72.5 5441
+                L79 5441 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 5438 L87, 5441 L79, 5444 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 5500.5 Q25 5504.5
+                29 5504.5
+                L42 5504.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 5501.5 L50, 5504.5 L42, 5507.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 5519.5 L68.5 5549 Q68.5 5553
+                72.5 5553
+                L79 5553 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 5550 L87, 5553 L79, 5556 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 5597.5 Q105.5 5601.5
+                109.5 5601.5
+                L116 5601.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 5598.5 L124, 5601.5 L116, 5604.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 5646 Q105.5 5650
+                109.5 5650
+                L116 5650 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 5647 L124, 5650 L116, 5653 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 5694.5 Q105.5 5698.5
+                109.5 5698.5
+                L116 5698.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 5695.5 L124, 5698.5 L116, 5701.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 5743 Q105.5 5747
+                109.5 5747
+                L116 5747 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 5744 L124, 5747 L116, 5750 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 5791.5 Q105.5 5795.5
+                109.5 5795.5
+                L116 5795.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 5792.5 L124, 5795.5 L116, 5798.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 5840 Q105.5 5844
+                109.5 5844
+                L116 5844 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 5841 L124, 5844 L116, 5847 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 5888.5 Q105.5 5892.5
+                109.5 5892.5
+                L116 5892.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 5889.5 L124, 5892.5 L116, 5895.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 5937 Q105.5 5941
+                109.5 5941
+                L116 5941 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 5938 L124, 5941 L116, 5944 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 5985.5 Q105.5 5989.5
+                109.5 5989.5
+                L116 5989.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 5986.5 L124, 5989.5 L116, 5992.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 6034 Q105.5 6038
+                109.5 6038
+                L116 6038 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 6035 L124, 6038 L116, 6041 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 6082.5 Q105.5 6086.5
+                109.5 6086.5
+                L116 6086.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 6083.5 L124, 6086.5 L116, 6089.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 6131 Q105.5 6135
+                109.5 6135
+                L116 6135 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 6132 L124, 6135 L116, 6138 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 6179.5 Q105.5 6183.5
+                109.5 6183.5
+                L116 6183.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 6180.5 L124, 6183.5 L116, 6186.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 6228 Q105.5 6232
+                109.5 6232
+                L116 6232 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 6229 L124, 6232 L116, 6235 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 6276.5 Q105.5 6280.5
+                109.5 6280.5
+                L116 6280.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 6277.5 L124, 6280.5 L116, 6283.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 6325 Q105.5 6329
+                109.5 6329
+                L116 6329 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 6326 L124, 6329 L116, 6332 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 6373.5 Q105.5 6377.5
+                109.5 6377.5
+                L116 6377.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 6374.5 L124, 6377.5 L116, 6380.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 6422 Q105.5 6426
+                109.5 6426
+                L116 6426 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 6423 L124, 6426 L116, 6429 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 6470.5 Q105.5 6474.5
+                109.5 6474.5
+                L116 6474.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 6471.5 L124, 6474.5 L116, 6477.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 6519 Q105.5 6523
+                109.5 6523
+                L116 6523 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 6520 L124, 6523 L116, 6526 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 6567.5 Q105.5 6571.5
+                109.5 6571.5
+                L116 6571.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 6568.5 L124, 6571.5 L116, 6574.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 6616 Q105.5 6620
+                109.5 6620
+                L116 6620 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 6617 L124, 6620 L116, 6623 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 6664.5 Q105.5 6668.5
+                109.5 6668.5
+                L116 6668.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 6665.5 L124, 6668.5 L116, 6671.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 6713 Q105.5 6717
+                109.5 6717
+                L116 6717 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 6714 L124, 6717 L116, 6720 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 6761.5 Q105.5 6765.5
+                109.5 6765.5
+                L116 6765.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 6762.5 L124, 6765.5 L116, 6768.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 6810 Q105.5 6814
+                109.5 6814
+                L116 6814 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 6811 L124, 6814 L116, 6817 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 6858.5 Q105.5 6862.5
+                109.5 6862.5
+                L116 6862.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 6859.5 L124, 6862.5 L116, 6865.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 6907 Q105.5 6911
+                109.5 6911
+                L116 6911 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 6908 L124, 6911 L116, 6914 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 6955.5 Q105.5 6959.5
+                109.5 6959.5
+                L116 6959.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 6956.5 L124, 6959.5 L116, 6962.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 5568 L105.5 7004 Q105.5 7008
+                109.5 7008
+                L116 7008 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 7005 L124, 7008 L116, 7011 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 7067.5 Q25 7071.5
+                29 7071.5
+                L42 7071.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 7068.5 L50, 7071.5 L42, 7074.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 7086.5 L68.5 7116 Q68.5 7120
+                72.5 7120
+                L79 7120 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 7117 L87, 7120 L79, 7123 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 7135 L105.5 7164.5 Q105.5 7168.5
+                109.5 7168.5
+                L116 7168.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 7165.5 L124, 7168.5 L116, 7171.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 7228 Q25 7232
+                29 7232
+                L42 7232 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 7229 L50, 7232 L42, 7235 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 7247 L68.5 7276.5 Q68.5 7280.5
+                72.5 7280.5
+                L79 7280.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 7277.5 L87, 7280.5 L79, 7283.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 7295.5 L105.5 7325 Q105.5 7329
+                109.5 7329
+                L116 7329 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 7326 L124, 7329 L116, 7332 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 7295.5 L105.5 7373.5 Q105.5 7377.5
+                109.5 7377.5
+                L116 7377.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 7374.5 L124, 7377.5 L116, 7380.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 7295.5 L105.5 7422 Q105.5 7426
+                109.5 7426
+                L116 7426 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 7423 L124, 7426 L116, 7429 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 7295.5 L105.5 7470.5 Q105.5 7474.5
+                109.5 7474.5
+                L116 7474.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 7471.5 L124, 7474.5 L116, 7477.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 7295.5 L105.5 7519 Q105.5 7523
+                109.5 7523
+                L116 7523 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 7520 L124, 7523 L116, 7526 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 7295.5 L105.5 7567.5 Q105.5 7571.5
+                109.5 7571.5
+                L116 7571.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 7568.5 L124, 7571.5 L116, 7574.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 7295.5 L105.5 7616 Q105.5 7620
+                109.5 7620
+                L116 7620 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 7617 L124, 7620 L116, 7623 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 7295.5 L105.5 7664.5 Q105.5 7668.5
+                109.5 7668.5
+                L116 7668.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 7665.5 L124, 7668.5 L116, 7671.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 7295.5 L105.5 7713 Q105.5 7717
+                109.5 7717
+                L116 7717 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 7714 L124, 7717 L116, 7720 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 7295.5 L105.5 7761.5 Q105.5 7765.5
+                109.5 7765.5
+                L116 7765.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 7762.5 L124, 7765.5 L116, 7768.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 7295.5 L105.5 7810 Q105.5 7814
+                109.5 7814
+                L116 7814 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 7811 L124, 7814 L116, 7817 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 7295.5 L105.5 7858.5 Q105.5 7862.5
+                109.5 7862.5
+                L116 7862.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 7859.5 L124, 7862.5 L116, 7865.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 7295.5 L105.5 7907 Q105.5 7911
+                109.5 7911
+                L116 7911 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 7908 L124, 7911 L116, 7914 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 7295.5 L105.5 7955.5 Q105.5 7959.5
+                109.5 7959.5
+                L116 7959.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 7956.5 L124, 7959.5 L116, 7962.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 7295.5 L105.5 8004 Q105.5 8008
+                109.5 8008
+                L116 8008 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 8005 L124, 8008 L116, 8011 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 7295.5 L105.5 8052.5 Q105.5 8056.5
+                109.5 8056.5
+                L116 8056.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 8053.5 L124, 8056.5 L116, 8059.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 7295.5 L105.5 8101 Q105.5 8105
+                109.5 8105
+                L116 8105 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 8102 L124, 8105 L116, 8108 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 7295.5 L105.5 8149.5 Q105.5 8153.5
+                109.5 8153.5
+                L116 8153.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 8150.5 L124, 8153.5 L116, 8156.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 8213 Q25 8217
+                29 8217
+                L42 8217 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 8214 L50, 8217 L42, 8220 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 8232 L68.5 8261.5 Q68.5 8265.5
+                72.5 8265.5
+                L79 8265.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 8262.5 L87, 8265.5 L79, 8268.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 8232 L68.5 8310 Q68.5 8314
+                72.5 8314
+                L79 8314 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 8311 L87, 8314 L79, 8317 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 8232 L68.5 8358.5 Q68.5 8362.5
+                72.5 8362.5
+                L79 8362.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 8359.5 L87, 8362.5 L79, 8365.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 8232 L68.5 8407 Q68.5 8411
+                72.5 8411
+                L79 8411 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 8408 L87, 8411 L79, 8414 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 8232 L68.5 8455.5 Q68.5 8459.5
+                72.5 8459.5
+                L79 8459.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 8456.5 L87, 8459.5 L79, 8462.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 8232 L68.5 8504 Q68.5 8508
+                72.5 8508
+                L79 8508 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 8505 L87, 8508 L79, 8511 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 8232 L68.5 8552.5 Q68.5 8556.5
+                72.5 8556.5
+                L79 8556.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 8553.5 L87, 8556.5 L79, 8559.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 8232 L68.5 8601 Q68.5 8605
+                72.5 8605
+                L79 8605 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 8602 L87, 8605 L79, 8608 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 8232 L68.5 8649.5 Q68.5 8653.5
+                72.5 8653.5
+                L79 8653.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 8650.5 L87, 8653.5 L79, 8656.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 8232 L68.5 8698 Q68.5 8702
+                72.5 8702
+                L79 8702 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 8699 L87, 8702 L79, 8705 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 8232 L68.5 8746.5 Q68.5 8750.5
+                72.5 8750.5
+                L79 8750.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 8747.5 L87, 8750.5 L79, 8753.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 8232 L68.5 8795 Q68.5 8799
+                72.5 8799
+                L79 8799 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 8796 L87, 8799 L79, 8802 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 8858.5 Q25 8862.5
+                29 8862.5
+                L42 8862.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 8859.5 L50, 8862.5 L42, 8865.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 8877.5 L68.5 8907 Q68.5 8911
+                72.5 8911
+                L79 8911 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 8908 L87, 8911 L79, 8914 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 8926 L105.5 8955.5 Q105.5 8959.5
+                109.5 8959.5
+                L116 8959.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 8956.5 L124, 8959.5 L116, 8962.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 8926 L105.5 9004 Q105.5 9008
+                109.5 9008
+                L116 9008 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 9005 L124, 9008 L116, 9011 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 8926 L105.5 9052.5 Q105.5 9056.5
+                109.5 9056.5
+                L116 9056.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 9053.5 L124, 9056.5 L116, 9059.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 9116 Q25 9120
+                29 9120
+                L42 9120 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 9117 L50, 9120 L42, 9123 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 9135 L68.5 9164.5 Q68.5 9168.5
+                72.5 9168.5
+                L79 9168.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 9165.5 L87, 9168.5 L79, 9171.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 9183.5 L105.5 9213 Q105.5 9217
+                109.5 9217
+                L116 9217 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 9214 L124, 9217 L116, 9220 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 9183.5 L105.5 9261.5 Q105.5 9265.5
+                109.5 9265.5
+                L116 9265.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 9262.5 L124, 9265.5 L116, 9268.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 9325 Q25 9329
+                29 9329
+                L42 9329 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 9326 L50, 9329 L42, 9332 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 9344 L68.5 9373.5 Q68.5 9377.5
+                72.5 9377.5
+                L79 9377.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 9374.5 L87, 9377.5 L79, 9380.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 9392.5 L105.5 9422 Q105.5 9426
+                109.5 9426
+                L116 9426 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 9423 L124, 9426 L116, 9429 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 9392.5 L105.5 9470.5 Q105.5 9474.5
+                109.5 9474.5
+                L116 9474.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 9471.5 L124, 9474.5 L116, 9477.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 9534 Q25 9538
+                29 9538
+                L42 9538 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 9535 L50, 9538 L42, 9541 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 9553 L68.5 9582.5 Q68.5 9586.5
+                72.5 9586.5
+                L79 9586.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 9583.5 L87, 9586.5 L79, 9589.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 9601.5 L105.5 9631 Q105.5 9635
+                109.5 9635
+                L116 9635 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 9632 L124, 9635 L116, 9638 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 9694.5 Q25 9698.5
+                29 9698.5
+                L42 9698.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 9695.5 L50, 9698.5 L42, 9701.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 9713.5 L68.5 9743 Q68.5 9747
+                72.5 9747
+                L79 9747 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 9744 L87, 9747 L79, 9750 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 9762 L105.5 9791.5 Q105.5 9795.5
+                109.5 9795.5
+                L116 9795.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 9792.5 L124, 9795.5 L116, 9798.5 Z" 
+        fill="#333" />
+            </g>
+            </svg>

@@ -1,0 +1,2406 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+                width="643" height="5434" shape-rendering="optimizeSpeed">
+                
+            <g>
+                <rect x="50" y="80"
+            width="123.6" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="173.6" y1="90" x2="178.6" y2="90"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="173.6" y1="100" x2="178.6" y2="100"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M178.6, 81 L198.6, 95 L178.6, 109 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export Emoji</title>
+            <text x="65" y="100"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="100">export Emoji</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="128.5"
+            width="162.6" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const Emoji = {*}</title>
+            <text x="102" y="148.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="148.5">const Emoji = {*}</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="177"
+            width="310.8" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>skull: String.fromCodePoint(0x1f480)</title>
+            <text x="139" y="197"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="197">skull: String.fromCodePoint(0x1f480)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="225.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128128)</title>
+            <text x="176" y="245.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="245.5">String.fromCodePoint(128128)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="274"
+            width="326.4" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 💀
+tick: String.fromCodePoint(0x2705)</title>
+            <text x="139" y="294"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="294">// 💀
+tick: String.fromCodePoint(0x2705)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="322.5"
+            width="232.79999999999998" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(9989)</title>
+            <text x="176" y="342.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="342.5">String.fromCodePoint(9989)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="371"
+            width="334.2" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// ✅
+cross: String.fromCodePoint(0x274c)</title>
+            <text x="139" y="391"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="391">// ✅
+cross: String.fromCodePoint(0x274c)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="419.5"
+            width="240.6" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(10060)</title>
+            <text x="176" y="439.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="439.5">String.fromCodePoint(10060)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="468"
+            width="334.2" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// ❌
+warn: String.fromCodePoint(0x1f625)</title>
+            <text x="139" y="488"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="488">// ❌
+warn: String.fromCodePoint(0x1f625)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="516.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128549)</title>
+            <text x="176" y="536.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="536.5">String.fromCodePoint(128549)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="565"
+            width="334.2" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 😥
+info: String.fromCodePoint(0x1f535)</title>
+            <text x="139" y="585"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="585">// 😥
+info: String.fromCodePoint(0x1f535)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="613.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128309)</title>
+            <text x="176" y="633.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="633.5">String.fromCodePoint(128309)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="662"
+            width="342" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 🔵
+debug: String.fromCodePoint(0x1f41b)</title>
+            <text x="139" y="682"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="682">// 🔵
+debug: String.fromCodePoint(0x1f41b)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="710.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128027)</title>
+            <text x="176" y="730.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="730.5">String.fromCodePoint(128027)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="759"
+            width="334.2" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 🐛
+home: String.fromCodePoint(0x1f3e0)</title>
+            <text x="139" y="779"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="779">// 🐛
+home: String.fromCodePoint(0x1f3e0)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="807.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(127968)</title>
+            <text x="176" y="827.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="827.5">String.fromCodePoint(127968)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="856"
+            width="342" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 🏠
+reload: String.fromCodePoint(0x231b)</title>
+            <text x="139" y="876"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="876">// 🏠
+reload: String.fromCodePoint(0x231b)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="904.5"
+            width="232.79999999999998" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(8987)</title>
+            <text x="176" y="924.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="924.5">String.fromCodePoint(8987)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="953"
+            width="334.2" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// ⌛
+flag: String.fromCodePoint(0x1f6a9)</title>
+            <text x="139" y="973"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="973">// ⌛
+flag: String.fromCodePoint(0x1f6a9)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="1001.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128681)</title>
+            <text x="176" y="1021.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="1021.5">String.fromCodePoint(128681)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="1050"
+            width="334.2" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 🚩
+baby: String.fromCodePoint(0x1f476)</title>
+            <text x="139" y="1070"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="1070">// 🚩
+baby: String.fromCodePoint(0x1f476)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="1098.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128118)</title>
+            <text x="176" y="1118.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="1118.5">String.fromCodePoint(128118)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="1147"
+            width="342" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 👶
+order: String.fromCodePoint(0x1f4e6)</title>
+            <text x="139" y="1167"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="1167">// 👶
+order: String.fromCodePoint(0x1f4e6)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="1195.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128230)</title>
+            <text x="176" y="1215.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="1215.5">String.fromCodePoint(128230)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="1244"
+            width="365.4" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 📦
+terminal: String.fromCodePoint(0x1f4b0)</title>
+            <text x="139" y="1264"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="1264">// 📦
+terminal: String.fromCodePoint(0x1f4b0)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="1292.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128176)</title>
+            <text x="176" y="1312.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="1312.5">String.fromCodePoint(128176)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="1341"
+            width="326.4" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 💰
+lab: String.fromCodePoint(0x1f52e)</title>
+            <text x="139" y="1361"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="1361">// 💰
+lab: String.fromCodePoint(0x1f52e)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="1389.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128302)</title>
+            <text x="176" y="1409.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="1409.5">String.fromCodePoint(128302)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="1438"
+            width="334.2" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 🔮
+walk: String.fromCodePoint(0x1f45f)</title>
+            <text x="139" y="1458"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="1458">// 🔮
+walk: String.fromCodePoint(0x1f45f)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="1486.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128095)</title>
+            <text x="176" y="1506.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="1506.5">String.fromCodePoint(128095)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="1535"
+            width="334.2" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 👟
+wait: String.fromCodePoint(0x1f6ac)</title>
+            <text x="139" y="1555"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="1555">// 👟
+wait: String.fromCodePoint(0x1f6ac)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="1583.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128684)</title>
+            <text x="176" y="1603.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="1603.5">String.fromCodePoint(128684)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="1632"
+            width="342" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 🚬
+module: String.fromCodePoint(0x26aa)</title>
+            <text x="139" y="1652"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="1652">// 🚬
+module: String.fromCodePoint(0x26aa)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="1680.5"
+            width="232.79999999999998" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(9898)</title>
+            <text x="176" y="1700.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="1700.5">String.fromCodePoint(9898)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="1729"
+            width="427.8" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// ⚪
+// Action
+attack_controller: String.fromCodePoint(0x1f680)</title>
+            <text x="139" y="1749"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="1749">// ⚪
+// Action
+attack_controller: String.fromCodeP...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="1777.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128640)</title>
+            <text x="176" y="1797.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="1797.5">String.fromCodePoint(128640)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="1826"
+            width="365.4" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 🚀
+avoiding: String.fromCodePoint(0x1f440)</title>
+            <text x="139" y="1846"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="1846">// 🚀
+avoiding: String.fromCodePoint(0x1f440)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="1874.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128064)</title>
+            <text x="176" y="1894.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="1894.5">String.fromCodePoint(128064)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="1923"
+            width="365.4" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 👀
+boosting: String.fromCodePoint(0x1f525)</title>
+            <text x="139" y="1943"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="1943">// 👀
+boosting: String.fromCodePoint(0x1f525)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="1971.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128293)</title>
+            <text x="176" y="1991.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="1991.5">String.fromCodePoint(128293)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="2020"
+            width="365.4" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 🔥
+building: String.fromCodePoint(0x1f3d7)</title>
+            <text x="139" y="2040"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="2040">// 🔥
+building: String.fromCodePoint(0x1f3d7)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="2068.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(127959)</title>
+            <text x="176" y="2088.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="2088.5">String.fromCodePoint(127959)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="2117"
+            width="381" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 🏗
+bulldozing: String.fromCodePoint(0x1f69c)</title>
+            <text x="139" y="2137"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="2137">// 🏗
+bulldozing: String.fromCodePoint(0x1f69c)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="2165.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128668)</title>
+            <text x="176" y="2185.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="2185.5">String.fromCodePoint(128668)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="2214"
+            width="365.4" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 🚜
+charging: String.fromCodePoint(0x1f50c)</title>
+            <text x="139" y="2234"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="2234">// 🚜
+charging: String.fromCodePoint(0x1f50c)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="2262.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128268)</title>
+            <text x="176" y="2282.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="2282.5">String.fromCodePoint(128268)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="2311"
+            width="357.59999999999997" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 🔌
+claiming: String.fromCodePoint(0x26f3)</title>
+            <text x="139" y="2331"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="2331">// 🔌
+claiming: String.fromCodePoint(0x26f3)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="2359.5"
+            width="232.79999999999998" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(9971)</title>
+            <text x="176" y="2379.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="2379.5">String.fromCodePoint(9971)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="2408"
+            width="365.4" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// ⛳
+defending: String.fromCodePoint(0x2694)</title>
+            <text x="139" y="2428"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="2428">// ⛳
+defending: String.fromCodePoint(0x2694)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="2456.5"
+            width="232.79999999999998" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(9876)</title>
+            <text x="176" y="2476.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="2476.5">String.fromCodePoint(9876)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="2505"
+            width="381" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// ⚔
+dismantling: String.fromCodePoint(0x26d1)</title>
+            <text x="139" y="2525"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="2525">// ⚔
+dismantling: String.fromCodePoint(0x26d1)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="2553.5"
+            width="232.79999999999998" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(9937)</title>
+            <text x="176" y="2573.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="2573.5">String.fromCodePoint(9937)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="2602"
+            width="365.4" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// ⛑
+dropping: String.fromCodePoint(0x1f4a9)</title>
+            <text x="139" y="2622"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="2622">// ⛑
+dropping: String.fromCodePoint(0x1f4a9)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="2650.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128169)</title>
+            <text x="176" y="2670.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="2670.5">String.fromCodePoint(128169)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="2699"
+            width="357.59999999999997" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 💩
+feeding: String.fromCodePoint(0x1f355)</title>
+            <text x="139" y="2719"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="2719">// 💩
+feeding: String.fromCodePoint(0x1f355)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="2747.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(127829)</title>
+            <text x="176" y="2767.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="2767.5">String.fromCodePoint(127829)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="2796"
+            width="381" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 🍕
+fortifying: String.fromCodePoint(0x1f6a7)</title>
+            <text x="139" y="2816"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="2816">// 🍕
+fortifying: String.fromCodePoint(0x1f6a7)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="2844.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128679)</title>
+            <text x="176" y="2864.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="2864.5">String.fromCodePoint(128679)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="2893"
+            width="349.8" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 🚧
+fueling: String.fromCodePoint(0x26fd)</title>
+            <text x="139" y="2913"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="2913">// 🚧
+fueling: String.fromCodePoint(0x26fd)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="2941.5"
+            width="232.79999999999998" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(9981)</title>
+            <text x="176" y="2961.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="2961.5">String.fromCodePoint(9981)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="2990"
+            width="365.4" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// ⛽
+guarding: String.fromCodePoint(0x1f6e1)</title>
+            <text x="139" y="3010"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="3010">// ⛽
+guarding: String.fromCodePoint(0x1f6e1)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="3038.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128737)</title>
+            <text x="176" y="3058.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="3058.5">String.fromCodePoint(128737)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="3087"
+            width="373.2" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 🛡
+harvesting: String.fromCodePoint(0x26cf)</title>
+            <text x="139" y="3107"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="3107">// 🛡
+harvesting: String.fromCodePoint(0x26cf)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="3135.5"
+            width="232.79999999999998" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(9935)</title>
+            <text x="176" y="3155.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="3155.5">String.fromCodePoint(9935)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="3184"
+            width="357.59999999999997" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// ⛏
+healing: String.fromCodePoint(0x1f48a)</title>
+            <text x="139" y="3204"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="3204">// ⛏
+healing: String.fromCodePoint(0x1f48a)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="3232.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128138)</title>
+            <text x="176" y="3252.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="3252.5">String.fromCodePoint(128138)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="3281"
+            width="334.2" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 💊
+idle: String.fromCodePoint(0x1f3b5)</title>
+            <text x="139" y="3301"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="3301">// 💊
+idle: String.fromCodePoint(0x1f3b5)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="3329.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(127925)</title>
+            <text x="176" y="3349.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="3349.5">String.fromCodePoint(127925)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="3378"
+            width="365.4" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 🎵
+invading: String.fromCodePoint(0x1f52b)</title>
+            <text x="139" y="3398"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="3398">// 🎵
+invading: String.fromCodePoint(0x1f52b)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="3426.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128299)</title>
+            <text x="176" y="3446.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="3446.5">String.fromCodePoint(128299)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="3475"
+            width="342" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 🔫
+mining: String.fromCodePoint(0x26cf)</title>
+            <text x="139" y="3495"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="3495">// 🔫
+mining: String.fromCodePoint(0x26cf)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="3523.5"
+            width="232.79999999999998" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(9935)</title>
+            <text x="176" y="3543.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="3543.5">String.fromCodePoint(9935)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="3572"
+            width="357.59999999999997" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// ⛏
+picking: String.fromCodePoint(0x1f9e4)</title>
+            <text x="139" y="3592"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="3592">// ⛏
+picking: String.fromCodePoint(0x1f9e4)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="3620.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(129508)</title>
+            <text x="176" y="3640.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="3640.5">String.fromCodePoint(129508)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="3669"
+            width="396.59999999999997" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 🧤
+reallocating: String.fromCodePoint(0x1f52e)</title>
+            <text x="139" y="3689"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="3689">// 🧤
+reallocating: String.fromCodePoint(0x1f52e)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="3717.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128302)</title>
+            <text x="176" y="3737.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="3737.5">String.fromCodePoint(128302)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="3766"
+            width="373.2" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 🔮
+recycling: String.fromCodePoint(0x1f504)</title>
+            <text x="139" y="3786"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="3786">// 🔮
+recycling: String.fromCodePoint(0x1f504)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="3814.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128260)</title>
+            <text x="176" y="3834.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="3834.5">String.fromCodePoint(128260)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="3863"
+            width="373.2" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 🔄
+repairing: String.fromCodePoint(0x1f527)</title>
+            <text x="139" y="3883"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="3883">// 🔄
+repairing: String.fromCodePoint(0x1f527)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="3911.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128295)</title>
+            <text x="176" y="3931.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="3931.5">String.fromCodePoint(128295)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="3960"
+            width="373.2" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 🔧
+reserving: String.fromCodePoint(0x1f6a9)</title>
+            <text x="139" y="3980"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="3980">// 🔧
+reserving: String.fromCodePoint(0x1f6a9)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="4008.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128681)</title>
+            <text x="176" y="4028.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="4028.5">String.fromCodePoint(128681)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="4057"
+            width="357.59999999999997" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 🚩
+robbing: String.fromCodePoint(0x1f47b)</title>
+            <text x="139" y="4077"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="4077">// 🚩
+robbing: String.fromCodePoint(0x1f47b)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="4105.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128123)</title>
+            <text x="176" y="4125.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="4125.5">String.fromCodePoint(128123)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="4154"
+            width="349.8" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 👻
+storing: String.fromCodePoint(0x23ec)</title>
+            <text x="139" y="4174"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="4174">// 👻
+storing: String.fromCodePoint(0x23ec)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="4202.5"
+            width="232.79999999999998" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(9196)</title>
+            <text x="176" y="4222.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="4222.5">String.fromCodePoint(9196)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="4251"
+            width="381" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// ⏬
+travelling: String.fromCodePoint(0x1f3c3)</title>
+            <text x="139" y="4271"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="4271">// ⏬
+travelling: String.fromCodePoint(0x1f3c3)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="4299.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(127939)</title>
+            <text x="176" y="4319.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="4319.5">String.fromCodePoint(127939)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="4348"
+            width="381" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 🏃
+uncharging: String.fromCodePoint(0x1f50b)</title>
+            <text x="139" y="4368"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="4368">// 🏃
+uncharging: String.fromCodePoint(0x1f50b)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="4396.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128267)</title>
+            <text x="176" y="4416.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="4416.5">String.fromCodePoint(128267)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="4445"
+            width="373.2" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 🔋
+upgrading: String.fromCodePoint(0x1f64f)</title>
+            <text x="139" y="4465"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="4465">// 🔋
+upgrading: String.fromCodePoint(0x1f64f)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="4493.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128591)</title>
+            <text x="176" y="4513.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="4513.5">String.fromCodePoint(128591)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="4542"
+            width="381" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// 🙏
+withdrawing: String.fromCodePoint(0x23eb)</title>
+            <text x="139" y="4562"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="4562">// 🙏
+withdrawing: String.fromCodePoint(0x23eb)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="4590.5"
+            width="232.79999999999998" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(9195)</title>
+            <text x="176" y="4610.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="4610.5">String.fromCodePoint(9195)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="4639"
+            width="396.59999999999997" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>// ⏫
+safegen: String.fromCodePoint(0x1f512) // 🔒</title>
+            <text x="139" y="4659"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="4659">// ⏫
+safegen: String.fromCodePoint(0x1f512) // 🔒</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="4687.5"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>String.fromCodePoint(128274)</title>
+            <text x="176" y="4707.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="4707.5">String.fromCodePoint(128274)</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="4751"
+            width="131.39999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="181.39999999999998" y1="4761" x2="186.39999999999998" y2="4761"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="181.39999999999998" y1="4771" x2="186.39999999999998" y2="4771"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M186.39999999999998, 4752 L206.39999999999998, 4766 L186.39999999999998, 4780 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export Splash</title>
+            <text x="65" y="4771"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="4771">export Splash</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="87" y="4799.5"
+            width="159.2" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="97" y1="4799.5" x2="97" y2="4829.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="236.2" y1="4799.5" x2="236.2" y2="4829.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>Splash = () =&gt;</title>
+            <text x="112" y="4819.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="112" y="4819.5">Splash = () =&gt;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="124" y="4848"
+            width="53.4" height="30"
+            rx="2" ry="2"
+            style="fill:#FFE082; stroke:#444; stroke-width:1" />
+                   <title>try</title>
+            <text x="139" y="4868"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="4868">try</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="4896.5"
+            width="310.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const version = `[VI]{version}[/VI]`</title>
+            <text x="176" y="4916.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="4916.5">const version = `[VI]{version}[/VI]`</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="4945"
+            width="264" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const date = `[VI]{date}[/VI]`</title>
+            <text x="176" y="4965"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="4965">const date = `[VI]{date}[/VI]`</tspan>
+            </text>
+                   
+                   
+                </g><g>
+            <rect x="191" y="5008.5"
+            width="426.59999999999997" height="30"
+            rx="3" ry="3"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />                
+            <polygon points="161,5023.5 191,4993.5 221,5023.5 191,5053.5"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+            <title>(!Memory.version || Memory.version !== version)</title>
+            <text x="236" y="5028.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="236" y="5028.5">(!Memory.version || Memory.version !== version)</tspan>
+            </text>
+            
+            <text x="183.2" y="5028.5"
+        font-family="monospace" font-size="13" fill="#222">if</text> <text x="198.8" y="5055.45"
+        font-family="monospace" font-size="13" fill="#222">+</text> 
+        </g>
+                <g>
+                   <rect x="211" y="5063.5"
+            width="217.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>Memory.version = version</title>
+            <text x="226" y="5083.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="226" y="5083.5">Memory.version = version</tspan>
+            </text>
+                   
+                   
+                </g><g>
+            <rect x="191" y="5128.5"
+            width="356.4" height="30"
+            rx="3" ry="3"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />                
+            <polygon points="161,5143.5 191,5113.5 221,5143.5 191,5173.5"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+            <title>(!Memory.date || Memory.date !== date)</title>
+            <text x="236" y="5148.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="236" y="5148.5">(!Memory.date || Memory.date !== date)</tspan>
+            </text>
+            
+            <text x="183.2" y="5148.5"
+        font-family="monospace" font-size="13" fill="#222">if</text> <text x="198.8" y="5175.45"
+        font-family="monospace" font-size="13" fill="#222">+</text> 
+        </g>
+                <g>
+                   <rect x="211" y="5183.5"
+            width="170.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>Memory.date = date</title>
+            <text x="226" y="5203.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="226" y="5203.5">Memory.date = date</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="161" y="5233.5"
+            width="131.39999999999998" height="30"
+            rx="2" ry="2"
+            style="fill:#ef9a9a; stroke:#444; stroke-width:1" />
+                
+                <line x1="292.4" y1="5246.5" x2="294.4" y2="5246.5"
+                style="fill:#ef9a9a; stroke:#444; stroke-width:1" />
+                
+                <line x1="292.4" y1="5250.5" x2="294.4" y2="5250.5"
+                style="fill:#ef9a9a; stroke:#444; stroke-width:1" />
+
+                <path d="M294.4, 5234.5 L310.4, 5248.5 L294.4, 5262.5 Z" 
+        fill="#ef9a9a" stroke="#444" stroke-width="1" />
+                             
+                <title>catch (error)</title>
+            <text x="176" y="5253.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="5253.5">catch (error)</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="198" y="5282"
+            width="69" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>error</title>
+            <text x="213" y="5302"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="213" y="5302">error</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="198" y="5330.5"
+            width="170.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(error)</title>
+            <text x="213" y="5350.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="213" y="5350.5">console.log(error)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="5379"
+            width="427.8" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(`&lt;p style=&quot;color:#AE81FF&quot;&gt;
+
+╔═══╗                           ╔═══╗╔═══╗ ╔╗ ╔╗╔═╗╔═══╗
+║╔═╗║                           ║╔═╗║║╔═╗║╔╝║ ║║║╔╝║╔═╗║
+║╚══╗╔══╗╔═╗╔══╗╔══╗╔══╗╔══╗    ║╚══╗╚╝╔╝║╚╗║ ║╚╝╝ ╚╝╔╝║
+╚══╗║║╔═╝║╔╝║╔╗║║╔╗║║╔╗║║══╣    ╚══╗║╔═╝╔╝ ║║ ║╔╗║ ╔╗╚╗║
+║╚═╝║║╚═╗║║ ║║═╣║║═╣║╚╝║╠══║    ║╚═╝║║║╚═╗╔╝╚╗║║║╚╗║╚═╝║
+╚═══╝╚══╝╚╝ ╚══╝╚══╝║╔═╝╚══╝    ╚═══╝╚═══╝╚══╝╚╝╚═╝╚═══╝
+                    ║║
+                    ╚╝
+=========================================================
+= Version: ${Memory.version}  BuildDate: ${Memory.date} =
+=========================================================
+&lt;/p&gt;
+`)</title>
+            <text x="139" y="5399"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="5399">console.log(`&lt;p style=&quot;color:#AE81FF&quot;&gt;
+
+╔═══╗     ...</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+               <rect x="25" y="13.75"
+            width="216.6" height="24"
+            style="fill:#fff59d; stroke:#444; stroke-width:1" />
+               <circle cx="25" cy="25" r="15"
+        style="fill:#fff59d; stroke:#444; stroke-width:1" />
+               <title>Program: source module</title>
+            <text x="55" y="30"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="55" y="30">Program: source module</tspan>
+            </text>
+            </g>
+            <g>
+               <path d="M25, 40 L25 91 Q25 95
+                29 95
+                L42 95 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 92 L50, 95 L42, 98 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 110 L68.5 139.5 Q68.5 143.5
+                72.5 143.5
+                L79 143.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 140.5 L87, 143.5 L79, 146.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 188 Q105.5 192
+                109.5 192
+                L124 192 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 207 L142.5 236.5 Q142.5 240.5
+                146.5 240.5
+                L153 240.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 237.5 L161, 240.5 L153, 243.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 285 Q105.5 289
+                109.5 289
+                L124 289 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 304 L142.5 333.5 Q142.5 337.5
+                146.5 337.5
+                L153 337.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 334.5 L161, 337.5 L153, 340.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 382 Q105.5 386
+                109.5 386
+                L124 386 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 401 L142.5 430.5 Q142.5 434.5
+                146.5 434.5
+                L153 434.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 431.5 L161, 434.5 L153, 437.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 479 Q105.5 483
+                109.5 483
+                L124 483 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 498 L142.5 527.5 Q142.5 531.5
+                146.5 531.5
+                L153 531.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 528.5 L161, 531.5 L153, 534.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 576 Q105.5 580
+                109.5 580
+                L124 580 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 595 L142.5 624.5 Q142.5 628.5
+                146.5 628.5
+                L153 628.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 625.5 L161, 628.5 L153, 631.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 673 Q105.5 677
+                109.5 677
+                L124 677 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 692 L142.5 721.5 Q142.5 725.5
+                146.5 725.5
+                L153 725.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 722.5 L161, 725.5 L153, 728.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 770 Q105.5 774
+                109.5 774
+                L124 774 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 789 L142.5 818.5 Q142.5 822.5
+                146.5 822.5
+                L153 822.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 819.5 L161, 822.5 L153, 825.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 867 Q105.5 871
+                109.5 871
+                L124 871 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 886 L142.5 915.5 Q142.5 919.5
+                146.5 919.5
+                L153 919.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 916.5 L161, 919.5 L153, 922.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 964 Q105.5 968
+                109.5 968
+                L124 968 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 983 L142.5 1012.5 Q142.5 1016.5
+                146.5 1016.5
+                L153 1016.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 1013.5 L161, 1016.5 L153, 1019.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 1061 Q105.5 1065
+                109.5 1065
+                L124 1065 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 1080 L142.5 1109.5 Q142.5 1113.5
+                146.5 1113.5
+                L153 1113.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 1110.5 L161, 1113.5 L153, 1116.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 1158 Q105.5 1162
+                109.5 1162
+                L124 1162 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 1177 L142.5 1206.5 Q142.5 1210.5
+                146.5 1210.5
+                L153 1210.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 1207.5 L161, 1210.5 L153, 1213.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 1255 Q105.5 1259
+                109.5 1259
+                L124 1259 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 1274 L142.5 1303.5 Q142.5 1307.5
+                146.5 1307.5
+                L153 1307.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 1304.5 L161, 1307.5 L153, 1310.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 1352 Q105.5 1356
+                109.5 1356
+                L124 1356 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 1371 L142.5 1400.5 Q142.5 1404.5
+                146.5 1404.5
+                L153 1404.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 1401.5 L161, 1404.5 L153, 1407.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 1449 Q105.5 1453
+                109.5 1453
+                L124 1453 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 1468 L142.5 1497.5 Q142.5 1501.5
+                146.5 1501.5
+                L153 1501.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 1498.5 L161, 1501.5 L153, 1504.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 1546 Q105.5 1550
+                109.5 1550
+                L124 1550 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 1565 L142.5 1594.5 Q142.5 1598.5
+                146.5 1598.5
+                L153 1598.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 1595.5 L161, 1598.5 L153, 1601.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 1643 Q105.5 1647
+                109.5 1647
+                L124 1647 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 1662 L142.5 1691.5 Q142.5 1695.5
+                146.5 1695.5
+                L153 1695.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 1692.5 L161, 1695.5 L153, 1698.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 1740 Q105.5 1744
+                109.5 1744
+                L124 1744 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 1759 L142.5 1788.5 Q142.5 1792.5
+                146.5 1792.5
+                L153 1792.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 1789.5 L161, 1792.5 L153, 1795.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 1837 Q105.5 1841
+                109.5 1841
+                L124 1841 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 1856 L142.5 1885.5 Q142.5 1889.5
+                146.5 1889.5
+                L153 1889.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 1886.5 L161, 1889.5 L153, 1892.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 1934 Q105.5 1938
+                109.5 1938
+                L124 1938 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 1953 L142.5 1982.5 Q142.5 1986.5
+                146.5 1986.5
+                L153 1986.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 1983.5 L161, 1986.5 L153, 1989.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 2031 Q105.5 2035
+                109.5 2035
+                L124 2035 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 2050 L142.5 2079.5 Q142.5 2083.5
+                146.5 2083.5
+                L153 2083.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 2080.5 L161, 2083.5 L153, 2086.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 2128 Q105.5 2132
+                109.5 2132
+                L124 2132 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 2147 L142.5 2176.5 Q142.5 2180.5
+                146.5 2180.5
+                L153 2180.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 2177.5 L161, 2180.5 L153, 2183.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 2225 Q105.5 2229
+                109.5 2229
+                L124 2229 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 2244 L142.5 2273.5 Q142.5 2277.5
+                146.5 2277.5
+                L153 2277.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 2274.5 L161, 2277.5 L153, 2280.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 2322 Q105.5 2326
+                109.5 2326
+                L124 2326 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 2341 L142.5 2370.5 Q142.5 2374.5
+                146.5 2374.5
+                L153 2374.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 2371.5 L161, 2374.5 L153, 2377.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 2419 Q105.5 2423
+                109.5 2423
+                L124 2423 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 2438 L142.5 2467.5 Q142.5 2471.5
+                146.5 2471.5
+                L153 2471.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 2468.5 L161, 2471.5 L153, 2474.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 2516 Q105.5 2520
+                109.5 2520
+                L124 2520 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 2535 L142.5 2564.5 Q142.5 2568.5
+                146.5 2568.5
+                L153 2568.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 2565.5 L161, 2568.5 L153, 2571.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 2613 Q105.5 2617
+                109.5 2617
+                L124 2617 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 2632 L142.5 2661.5 Q142.5 2665.5
+                146.5 2665.5
+                L153 2665.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 2662.5 L161, 2665.5 L153, 2668.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 2710 Q105.5 2714
+                109.5 2714
+                L124 2714 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 2729 L142.5 2758.5 Q142.5 2762.5
+                146.5 2762.5
+                L153 2762.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 2759.5 L161, 2762.5 L153, 2765.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 2807 Q105.5 2811
+                109.5 2811
+                L124 2811 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 2826 L142.5 2855.5 Q142.5 2859.5
+                146.5 2859.5
+                L153 2859.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 2856.5 L161, 2859.5 L153, 2862.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 2904 Q105.5 2908
+                109.5 2908
+                L124 2908 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 2923 L142.5 2952.5 Q142.5 2956.5
+                146.5 2956.5
+                L153 2956.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 2953.5 L161, 2956.5 L153, 2959.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 3001 Q105.5 3005
+                109.5 3005
+                L124 3005 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 3020 L142.5 3049.5 Q142.5 3053.5
+                146.5 3053.5
+                L153 3053.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 3050.5 L161, 3053.5 L153, 3056.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 3098 Q105.5 3102
+                109.5 3102
+                L124 3102 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 3117 L142.5 3146.5 Q142.5 3150.5
+                146.5 3150.5
+                L153 3150.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 3147.5 L161, 3150.5 L153, 3153.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 3195 Q105.5 3199
+                109.5 3199
+                L124 3199 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 3214 L142.5 3243.5 Q142.5 3247.5
+                146.5 3247.5
+                L153 3247.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 3244.5 L161, 3247.5 L153, 3250.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 3292 Q105.5 3296
+                109.5 3296
+                L124 3296 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 3311 L142.5 3340.5 Q142.5 3344.5
+                146.5 3344.5
+                L153 3344.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 3341.5 L161, 3344.5 L153, 3347.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 3389 Q105.5 3393
+                109.5 3393
+                L124 3393 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 3408 L142.5 3437.5 Q142.5 3441.5
+                146.5 3441.5
+                L153 3441.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 3438.5 L161, 3441.5 L153, 3444.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 3486 Q105.5 3490
+                109.5 3490
+                L124 3490 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 3505 L142.5 3534.5 Q142.5 3538.5
+                146.5 3538.5
+                L153 3538.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 3535.5 L161, 3538.5 L153, 3541.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 3583 Q105.5 3587
+                109.5 3587
+                L124 3587 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 3602 L142.5 3631.5 Q142.5 3635.5
+                146.5 3635.5
+                L153 3635.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 3632.5 L161, 3635.5 L153, 3638.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 3680 Q105.5 3684
+                109.5 3684
+                L124 3684 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 3699 L142.5 3728.5 Q142.5 3732.5
+                146.5 3732.5
+                L153 3732.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 3729.5 L161, 3732.5 L153, 3735.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 3777 Q105.5 3781
+                109.5 3781
+                L124 3781 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 3796 L142.5 3825.5 Q142.5 3829.5
+                146.5 3829.5
+                L153 3829.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 3826.5 L161, 3829.5 L153, 3832.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 3874 Q105.5 3878
+                109.5 3878
+                L124 3878 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 3893 L142.5 3922.5 Q142.5 3926.5
+                146.5 3926.5
+                L153 3926.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 3923.5 L161, 3926.5 L153, 3929.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 3971 Q105.5 3975
+                109.5 3975
+                L124 3975 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 3990 L142.5 4019.5 Q142.5 4023.5
+                146.5 4023.5
+                L153 4023.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 4020.5 L161, 4023.5 L153, 4026.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 4068 Q105.5 4072
+                109.5 4072
+                L124 4072 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 4087 L142.5 4116.5 Q142.5 4120.5
+                146.5 4120.5
+                L153 4120.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 4117.5 L161, 4120.5 L153, 4123.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 4165 Q105.5 4169
+                109.5 4169
+                L124 4169 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 4184 L142.5 4213.5 Q142.5 4217.5
+                146.5 4217.5
+                L153 4217.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 4214.5 L161, 4217.5 L153, 4220.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 4262 Q105.5 4266
+                109.5 4266
+                L124 4266 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 4281 L142.5 4310.5 Q142.5 4314.5
+                146.5 4314.5
+                L153 4314.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 4311.5 L161, 4314.5 L153, 4317.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 4359 Q105.5 4363
+                109.5 4363
+                L124 4363 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 4378 L142.5 4407.5 Q142.5 4411.5
+                146.5 4411.5
+                L153 4411.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 4408.5 L161, 4411.5 L153, 4414.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 4456 Q105.5 4460
+                109.5 4460
+                L124 4460 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 4475 L142.5 4504.5 Q142.5 4508.5
+                146.5 4508.5
+                L153 4508.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 4505.5 L161, 4508.5 L153, 4511.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 4553 Q105.5 4557
+                109.5 4557
+                L124 4557 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 4572 L142.5 4601.5 Q142.5 4605.5
+                146.5 4605.5
+                L153 4605.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 4602.5 L161, 4605.5 L153, 4608.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 158.5 L105.5 4650 Q105.5 4654
+                109.5 4654
+                L124 4654 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 4669 L142.5 4698.5 Q142.5 4702.5
+                146.5 4702.5
+                L153 4702.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 4699.5 L161, 4702.5 L153, 4705.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 4762 Q25 4766
+                29 4766
+                L42 4766 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 4763 L50, 4766 L42, 4769 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 4781 L68.5 4810.5 Q68.5 4814.5
+                72.5 4814.5
+                L79 4814.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4811.5 L87, 4814.5 L79, 4817.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 4829.5 L105.5 4859 Q105.5 4863
+                109.5 4863
+                L116 4863 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 4860 L124, 4863 L116, 4866 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M142.5, 4878 L142.5 4907.5 Q142.5 4911.5
+                146.5 4911.5
+                L153 4911.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 4908.5 L161, 4911.5 L153, 4914.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M142.5, 4878 L142.5 4956 Q142.5 4960
+                146.5 4960
+                L153 4960 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 4957 L161, 4960 L153, 4963 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M142.5, 4878 L142.5 5019.5 Q142.5 5023.5
+                146.5 5023.5
+                L153 5023.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 5020.5 L161, 5023.5 L153, 5026.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M191, 5053.5 L191 5074.5 Q191 5078.5
+                195 5078.5
+                L203 5078.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M203, 5075.5 L211, 5078.5 L203, 5081.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M142.5, 4878 L142.5 5139.5 Q142.5 5143.5
+                146.5 5143.5
+                L153 5143.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 5140.5 L161, 5143.5 L153, 5146.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M191, 5173.5 L191 5194.5 Q191 5198.5
+                195 5198.5
+                L203 5198.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M203, 5195.5 L211, 5198.5 L203, 5201.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M142.5, 4878 L142.5 5244.5 Q142.5 5248.5
+                146.5 5248.5
+                L153 5248.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 5245.5 L161, 5248.5 L153, 5251.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M179.5, 5263.5 L179.5 5293 Q179.5 5297
+                183.5 5297
+                L190 5297 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M190, 5294 L198, 5297 L190, 5300 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M179.5, 5263.5 L179.5 5341.5 Q179.5 5345.5
+                183.5 5345.5
+                L190 5345.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M190, 5342.5 L198, 5345.5 L190, 5348.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 4829.5 L105.5 5390 Q105.5 5394
+                109.5 5394
+                L116 5394 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 5391 L124, 5394 L116, 5397 Z" 
+        fill="#333" />
+            </g>
+            </svg>

@@ -1,0 +1,2041 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+                width="1063" height="4980" shape-rendering="optimizeSpeed">
+                
+                <g>
+                   <rect x="50" y="65"
+            width="303" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const startCpu = Game.cpu.getUsed()</title>
+            <text x="65" y="85"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="85">const startCpu = Game.cpu.getUsed()</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="128.5"
+            width="274" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="128.5" x2="55" y2="158.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="319" y1="128.5" x2="319" y2="158.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&quot;tools/ErrorMapper&quot;</title>
+            <text x="70" y="148.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="148.5">import from&quot;tools/ErrorMapper&quot;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="177"
+            width="115.8" height="30"
+            rx="2" ry="2"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                   <title>ErrorMapper</title>
+            <text x="102" y="197"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="197">ErrorMapper</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="240.5"
+            width="266.2" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="240.5" x2="55" y2="270.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="311.2" y1="240.5" x2="311.2" y2="270.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&quot;screeps-profiler&quot;</title>
+            <text x="70" y="260.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="260.5">import from&quot;screeps-profiler&quot;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="289"
+            width="92.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>Profiler</title>
+            <text x="102" y="309"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="309">Profiler</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="352.5"
+            width="188.2" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="352.5" x2="55" y2="382.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="233.2" y1="352.5" x2="233.2" y2="382.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&quot;config&quot;</title>
+            <text x="70" y="372.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="372.5">import from&quot;config&quot;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="401"
+            width="123.6" height="30"
+            rx="2" ry="2"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                   <title>USE_PROFILER</title>
+            <text x="102" y="421"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="421">USE_PROFILER</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="464.5"
+            width="266.2" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="464.5" x2="55" y2="494.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="311.2" y1="464.5" x2="311.2" y2="494.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&quot;screeps-inscribe&quot;</title>
+            <text x="70" y="484.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="484.5">import from&quot;screeps-inscribe&quot;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="513"
+            width="92.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>Inscribe</title>
+            <text x="102" y="533"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="533">Inscribe</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="576.5"
+            width="289.6" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="576.5" x2="55" y2="606.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="334.6" y1="576.5" x2="334.6" y2="606.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&quot;tools/logger/logger&quot;</title>
+            <text x="70" y="596.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="596.5">import from&quot;tools/logger/logger&quot;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="625"
+            width="53.4" height="30"
+            rx="2" ry="2"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                   <title>log</title>
+            <text x="102" y="645"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="645">log</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="688.5"
+            width="188.2" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="688.5" x2="55" y2="718.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="233.2" y1="688.5" x2="233.2" y2="718.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&quot;config&quot;</title>
+            <text x="70" y="708.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="708.5">import from&quot;config&quot;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="737"
+            width="162.6" height="30"
+            rx="2" ry="2"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                   <title>ENABLE_DEBUG_MODE</title>
+            <text x="102" y="757"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="757">ENABLE_DEBUG_MODE</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="800.5"
+            width="227.2" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="800.5" x2="55" y2="830.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="272.2" y1="800.5" x2="272.2" y2="830.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&quot;tools/tools&quot;</title>
+            <text x="70" y="820.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="820.5">import from&quot;tools/tools&quot;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="849"
+            width="69" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>Tools</title>
+            <text x="102" y="869"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="869">Tools</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="912.5"
+            width="305.2" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="912.5" x2="55" y2="942.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="350.2" y1="912.5" x2="350.2" y2="942.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&quot;tools/consolecommands&quot;</title>
+            <text x="70" y="932.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="932.5">import from&quot;tools/consolecommands&quot;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="961"
+            width="147" height="30"
+            rx="2" ry="2"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                   <title>ConsoleCommands</title>
+            <text x="102" y="981"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="981">ConsoleCommands</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="1024.5"
+            width="242.79999999999998" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="1024.5" x2="55" y2="1054.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="287.79999999999995" y1="1024.5" x2="287.79999999999995" y2="1054.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&apos;./tools/Emoji&apos;</title>
+            <text x="70" y="1044.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="1044.5">import from&apos;./tools/Emoji&apos;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="1073"
+            width="69" height="30"
+            rx="2" ry="2"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                   <title>Emoji</title>
+            <text x="102" y="1093"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1093">Emoji</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="1121.5"
+            width="76.8" height="30"
+            rx="2" ry="2"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                   <title>Splash</title>
+            <text x="102" y="1141.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1141.5">Splash</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="1185"
+            width="258.4" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="1185" x2="55" y2="1215"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="303.4" y1="1185" x2="303.4" y2="1215"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&quot;./organize.json&quot;</title>
+            <text x="70" y="1205"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="1205">import from&quot;./organize.json&quot;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="1233.5"
+            width="61.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>Orga</title>
+            <text x="102" y="1253.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1253.5">Orga</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="1297"
+            width="188.2" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="1297" x2="55" y2="1327"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="233.2" y1="1297" x2="233.2" y2="1327"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&quot;config&quot;</title>
+            <text x="70" y="1317"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="1317">import from&quot;config&quot;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="1345.5"
+            width="76.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>Config</title>
+            <text x="102" y="1365.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1365.5">Config</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="1409"
+            width="188.2" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="1409" x2="55" y2="1439"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="233.2" y1="1409" x2="233.2" y2="1439"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&quot;memory&quot;</title>
+            <text x="70" y="1429"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="1429">import from&quot;memory&quot;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="1457.5"
+            width="53.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>Mem</title>
+            <text x="102" y="1477.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1477.5">Mem</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="1521"
+            width="289.6" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="1521" x2="55" y2="1551"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="334.6" y1="1521" x2="334.6" y2="1551"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&quot;components/internal&quot;</title>
+            <text x="70" y="1541"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="1541">import from&quot;components/internal&quot;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="1569.5"
+            width="115.8" height="30"
+            rx="2" ry="2"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                   <title>RoomManager</title>
+            <text x="102" y="1589.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1589.5">RoomManager</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="1633"
+            width="242.79999999999998" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="1633" x2="55" y2="1663"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="287.79999999999995" y1="1633" x2="287.79999999999995" y2="1663"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&apos;./tools/stats&apos;</title>
+            <text x="70" y="1653"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="1653">import from&apos;./tools/stats&apos;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="1681.5"
+            width="123.6" height="30"
+            rx="2" ry="2"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                   <title>StatsManager</title>
+            <text x="102" y="1701.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1701.5">StatsManager</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="1730"
+            width="357.59999999999997" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>Inscribe.color(&apos;New Script loaded&apos;, &apos;red&apos;)</title>
+            <text x="65" y="1750"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1750">Inscribe.color(&apos;New Script loaded&apos;, &apos;red&apos;)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="1778.5"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(`[${Inscribe.color(&quot;New Script loaded&quot;, &quot;red&quot;)}] ${Emoji.reload}`)</title>
+            <text x="65" y="1798.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1798.5">console.log(`[${Inscribe.color(&quot;New Script loaded&quot;...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="1827"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>Inscribe.color(`| Memory Version=${Mem.memoryVersion} |`, &apos;skyblue&apos;)</title>
+            <text x="65" y="1847"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1847">Inscribe.color(`| Memory Version=${Mem.memoryVersi...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="1875.5"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>log.info(`[${Inscribe.color(`| Memory Version=${Mem.memoryVersion} |`, &quot;skyblue&quot;)}]`)</title>
+            <text x="65" y="1895.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1895.5">log.info(`[${Inscribe.color(`| Memory Version=${Me...</tspan>
+            </text>
+                   
+                   
+                </g><g>
+            <rect x="80" y="1939"
+            width="169.2" height="30"
+            rx="3" ry="3"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />                
+            <polygon points="50,1954 80,1924 110,1954 80,1984"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+            <title>(USE_PROFILER)</title>
+            <text x="125" y="1959"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="125" y="1959">(USE_PROFILER)</tspan>
+            </text>
+            
+            <text x="72.2" y="1959"
+        font-family="monospace" font-size="13" fill="#222">if</text> <text x="87.8" y="1985.95"
+        font-family="monospace" font-size="13" fill="#222">+</text> 
+        </g>
+                <g>
+                   <rect x="100" y="1994"
+            width="342" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>log.info(&quot;Profiler an: &quot; + USE_PROFILER)</title>
+            <text x="115" y="2014"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="115" y="2014">log.info(&quot;Profiler an: &quot; + USE_PROFILER)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="100" y="2042.5"
+            width="162.6" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>Profiler.enable()</title>
+            <text x="115" y="2062.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="115" y="2062.5">Profiler.enable()</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="2107.5"
+            width="213.79999999999998" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="60" y1="2107.5" x2="60" y2="2137.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="253.79999999999995" y1="2107.5" x2="253.79999999999995" y2="2137.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>function memoryInit()</title>
+            <text x="75" y="2127.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="75" y="2127.5">function memoryInit()</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="2156"
+            width="217.2" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>log.info(&apos;initing game&apos;)</title>
+            <text x="102" y="2176"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="2176">log.info(&apos;initing game&apos;)</tspan>
+            </text>
+                   
+                   
+                </g><g>
+
+            <rect x="117" y="2239.5"
+            width="223.79999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#b39ddb; stroke:#444; stroke-width:1" />
+            <polygon points="87,2254.5 117,2224.5 147,2254.5 117,2284.5"
+            style="fill:#b39ddb; stroke:#444; stroke-width:1" />
+                
+            <title> name in Memory.flags</title>
+            <text x="162" y="2259.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="162" y="2259.5"> name in Memory.flags</tspan>
+            </text>
+            
+            <text x="105.3" y="2259.5"
+        font-family="monospace" font-size="13" fill="#222">for</text>
+        </g><g>
+            <rect x="167" y="2309.5"
+            width="239.39999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />                
+            <polygon points="137,2324.5 167,2294.5 197,2324.5 167,2354.5"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+            <title>(!(name in Game.flags))</title>
+            <text x="212" y="2329.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="212" y="2329.5">(!(name in Game.flags))</tspan>
+            </text>
+            
+            <text x="159.2" y="2329.5"
+        font-family="monospace" font-size="13" fill="#222">if</text> <text x="174.8" y="2356.45"
+        font-family="monospace" font-size="13" fill="#222">+</text> 
+        </g><g>
+
+            <rect x="117" y="2409.5"
+            width="231.60000000000002" height="30"
+            rx="3" ry="3"
+            style="fill:#b39ddb; stroke:#444; stroke-width:1" />
+            <polygon points="87,2424.5 117,2394.5 147,2424.5 117,2454.5"
+            style="fill:#b39ddb; stroke:#444; stroke-width:1" />
+                
+            <title> name in Memory.spawns</title>
+            <text x="162" y="2429.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="162" y="2429.5"> name in Memory.spawns</tspan>
+            </text>
+            
+            <text x="105.3" y="2429.5"
+        font-family="monospace" font-size="13" fill="#222">for</text>
+        </g><g>
+            <rect x="167" y="2479.5"
+            width="247.2" height="30"
+            rx="3" ry="3"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />                
+            <polygon points="137,2494.5 167,2464.5 197,2494.5 167,2524.5"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+            <title>(!(name in Game.spawns))</title>
+            <text x="212" y="2499.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="212" y="2499.5">(!(name in Game.spawns))</tspan>
+            </text>
+            
+            <text x="159.2" y="2499.5"
+        font-family="monospace" font-size="13" fill="#222">if</text> <text x="174.8" y="2526.45"
+        font-family="monospace" font-size="13" fill="#222">+</text> 
+        </g><g>
+
+            <rect x="117" y="2579.5"
+            width="231.60000000000002" height="30"
+            rx="3" ry="3"
+            style="fill:#b39ddb; stroke:#444; stroke-width:1" />
+            <polygon points="87,2594.5 117,2564.5 147,2594.5 117,2624.5"
+            style="fill:#b39ddb; stroke:#444; stroke-width:1" />
+                
+            <title> name in Memory.creeps</title>
+            <text x="162" y="2599.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="162" y="2599.5"> name in Memory.creeps</tspan>
+            </text>
+            
+            <text x="105.3" y="2599.5"
+        font-family="monospace" font-size="13" fill="#222">for</text>
+        </g><g>
+            <rect x="167" y="2649.5"
+            width="247.2" height="30"
+            rx="3" ry="3"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />                
+            <polygon points="137,2664.5 167,2634.5 197,2664.5 167,2694.5"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+            <title>(!(name in Game.creeps))</title>
+            <text x="212" y="2669.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="212" y="2669.5">(!(name in Game.creeps))</tspan>
+            </text>
+            
+            <text x="159.2" y="2669.5"
+        font-family="monospace" font-size="13" fill="#222">if</text> <text x="174.8" y="2696.45"
+        font-family="monospace" font-size="13" fill="#222">+</text> 
+        </g><g>
+
+            <rect x="117" y="2749.5"
+            width="223.79999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#b39ddb; stroke:#444; stroke-width:1" />
+            <polygon points="87,2764.5 117,2734.5 147,2764.5 117,2794.5"
+            style="fill:#b39ddb; stroke:#444; stroke-width:1" />
+                
+            <title> name in Memory.rooms</title>
+            <text x="162" y="2769.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="162" y="2769.5"> name in Memory.rooms</tspan>
+            </text>
+            
+            <text x="105.3" y="2769.5"
+        font-family="monospace" font-size="13" fill="#222">for</text>
+        </g><g>
+            <rect x="167" y="2819.5"
+            width="239.39999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />                
+            <polygon points="137,2834.5 167,2804.5 197,2834.5 167,2864.5"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+            <title>(!(name in Game.rooms))</title>
+            <text x="212" y="2839.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="212" y="2839.5">(!(name in Game.rooms))</tspan>
+            </text>
+            
+            <text x="159.2" y="2839.5"
+        font-family="monospace" font-size="13" fill="#222">if</text> <text x="174.8" y="2866.45"
+        font-family="monospace" font-size="13" fill="#222">+</text> 
+        </g>
+                <g>
+                   <rect x="87" y="2884.5"
+            width="178.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const mem = Mem.m()</title>
+            <text x="102" y="2904.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="2904.5">const mem = Mem.m()</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="2933"
+            width="154.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>mem.creeps = {*}</title>
+            <text x="102" y="2953"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="2953">mem.creeps = {*}</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="2981.5"
+            width="147" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>mem.rooms = {*}</title>
+            <text x="102" y="3001.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="3001.5">mem.rooms = {*}</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="3030"
+            width="123.6" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>mem.uuid = 0</title>
+            <text x="102" y="3050"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="3050">mem.uuid = 0</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="3078.5"
+            width="295.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>mem.memVersion = Mem.memoryVersion</title>
+            <text x="102" y="3098.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="3098.5">mem.memVersion = Mem.memoryVersion</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="3127"
+            width="404.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const elapsedCPU = Game.cpu.getUsed() - startCpu</title>
+            <text x="65" y="3147"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="3147">const elapsedCPU = Game.cpu.getUsed() - startCpu</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="3175.5"
+            width="92.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>Splash()</title>
+            <text x="65" y="3195.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="3195.5">Splash()</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="3224"
+            width="443.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>Inscribe.color(&quot;Script Loading needed: &quot;, &quot;skyblue&quot;) + elapsedCPU.toFixed(2) + &quot; Ticks&quot;</title>
+            <text x="65" y="3244"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="3244">Inscribe.color(&quot;Script Loading needed: &quot;, &quot;skyblue...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="3272.5"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(`[${Inscribe.color(&quot;Script Loading needed: &quot;, &quot;skyblue&quot;) + elapsedCPU.toFixed(2) + &quot; Ticks&quot;}]`)</title>
+            <text x="65" y="3292.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="3292.5">console.log(`[${Inscribe.color(&quot;Script Loading nee...</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="3336"
+            width="115.80000000000001" height="30"
+            rx="3" ry="3"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                
+                <line x1="165.8" y1="3346" x2="170.8" y2="3346"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                
+                <line x1="165.8" y1="3356" x2="170.8" y2="3356"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+
+                <path d="M170.8, 3337 L190.8, 3351 L170.8, 3365 Z" 
+        fill="#fff" stroke="#444" stroke-width="1" />
+                             
+                <title>export loop</title>
+            <text x="65" y="3356"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="3356">export loop</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="3384.5"
+            width="326.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const loop = ErrorMapper.wrapLoop(*())</title>
+            <text x="102" y="3404.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="3404.5">const loop = ErrorMapper.wrapLoop(*())</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="3433"
+            width="225" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>ErrorMapper.wrapLoop(*())</title>
+            <text x="139" y="3453"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="3453">ErrorMapper.wrapLoop(*())</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="161" y="3481.5"
+            width="89" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="171" y1="3481.5" x2="171" y2="3511.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="240" y1="3481.5" x2="240" y2="3511.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>() =&gt;</title>
+            <text x="186" y="3501.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="186" y="3501.5">() =&gt;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="198" y="3530"
+            width="170.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>Profiler.wrap(*())</title>
+            <text x="213" y="3550"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="213" y="3550">Profiler.wrap(*())</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="235" y="3578.5"
+            width="89" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="245" y1="3578.5" x2="245" y2="3608.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="314" y1="3578.5" x2="314" y2="3608.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>() =&gt;</title>
+            <text x="260" y="3598.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="260" y="3598.5">() =&gt;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="272" y="3627"
+            width="240.6" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>global.cc = ConsoleCommands</title>
+            <text x="287" y="3647"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="287" y="3647">global.cc = ConsoleCommands</tspan>
+            </text>
+                   
+                   
+                </g><g>
+            <rect x="302" y="3690.5"
+            width="473.4" height="30"
+            rx="3" ry="3"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />                
+            <polygon points="272,3705.5 302,3675.5 332,3705.5 302,3735.5"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+            <title>(Mem.m().memVersion === undefined || Mem.m().memVersion !== Mem.memoryVersion)</title>
+            <text x="347" y="3710.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="347" y="3710.5">(Mem.m().memVersion === undefined || Mem.m().memVe...</tspan>
+            </text>
+            
+            <text x="294.2" y="3710.5"
+        font-family="monospace" font-size="13" fill="#222">if</text> <text x="309.8" y="3737.45"
+        font-family="monospace" font-size="13" fill="#222">+</text> 
+        </g>
+                <g>
+                   <rect x="322" y="3745.5"
+            width="84.6" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>Mem.m()</title>
+            <text x="337" y="3765.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="337" y="3765.5">Mem.m()</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="322" y="3794"
+            width="84.6" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>Mem.m()</title>
+            <text x="337" y="3814"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="337" y="3814">Mem.m()</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="322" y="3842.5"
+            width="123.6" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>memoryInit()</title>
+            <text x="337" y="3862.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="337" y="3862.5">memoryInit()</tspan>
+            </text>
+                   
+                   
+                </g><g>
+            <rect x="302" y="3907.5"
+            width="356.4" height="30"
+            rx="3" ry="3"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />                
+            <polygon points="272,3922.5 302,3892.5 332,3922.5 302,3952.5"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+            <title>(!Mem.m().uuid || Mem.m().uuid &gt; 1000)</title>
+            <text x="347" y="3927.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="347" y="3927.5">(!Mem.m().uuid || Mem.m().uuid &gt; 1000)</tspan>
+            </text>
+            
+            <text x="294.2" y="3927.5"
+        font-family="monospace" font-size="13" fill="#222">if</text> <text x="309.8" y="3954.45"
+        font-family="monospace" font-size="13" fill="#222">+</text> 
+        </g>
+                <g>
+                   <rect x="322" y="3962.5"
+            width="84.6" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>Mem.m()</title>
+            <text x="337" y="3982.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="337" y="3982.5">Mem.m()</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="322" y="4011"
+            width="84.6" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>Mem.m()</title>
+            <text x="337" y="4031"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="337" y="4031">Mem.m()</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="322" y="4059.5"
+            width="154.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>Mem.m().uuid = 0</title>
+            <text x="337" y="4079.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="337" y="4079.5">Mem.m().uuid = 0</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="359" y="4108"
+            width="84.6" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>Mem.m()</title>
+            <text x="374" y="4128"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="374" y="4128">Mem.m()</tspan>
+            </text>
+                   
+                   
+                </g><g>
+
+            <rect x="302" y="4193"
+            width="184.8" height="30"
+            rx="3" ry="3"
+            style="fill:#b39ddb; stroke:#444; stroke-width:1" />
+            <polygon points="272,4208 302,4178 332,4208 302,4238"
+            style="fill:#b39ddb; stroke:#444; stroke-width:1" />
+                
+            <title> R in Game.rooms</title>
+            <text x="347" y="4213"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="347" y="4213"> R in Game.rooms</tspan>
+            </text>
+            
+            <text x="290.3" y="4213"
+        font-family="monospace" font-size="13" fill="#222">for</text>
+        </g>
+                <g>
+                   <rect x="322" y="4248"
+            width="279.6" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const room: Room = Game.rooms[R]</title>
+            <text x="337" y="4268"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="337" y="4268">const room: Room = Game.rooms[R]</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="359" y="4296.5"
+            width="61.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>Room</title>
+            <text x="374" y="4316.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="374" y="4316.5">Room</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="322" y="4345"
+            width="443.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const rm: Mem.RoomMemory = Mem.m().rooms[room.name]</title>
+            <text x="337" y="4365"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="337" y="4365">const rm: Mem.RoomMemory = Mem.m().rooms[room.name...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="359" y="4393.5"
+            width="53.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>Mem</title>
+            <text x="374" y="4413.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="374" y="4413.5">Mem</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="359" y="4442"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>RoomMemory</title>
+            <text x="374" y="4462"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="374" y="4462">RoomMemory</tspan>
+            </text>
+                   
+                   
+                </g><g>
+            <rect x="352" y="4505.5"
+            width="200.4" height="30"
+            rx="3" ry="3"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />                
+            <polygon points="322,4520.5 352,4490.5 382,4520.5 352,4550.5"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+            <title>(rm === undefined)</title>
+            <text x="397" y="4525.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="397" y="4525.5">(rm === undefined)</tspan>
+            </text>
+            
+            <text x="344.2" y="4525.5"
+        font-family="monospace" font-size="13" fill="#222">if</text> <text x="359.8" y="4552.45"
+        font-family="monospace" font-size="13" fill="#222">+</text> <text x="556.3" y="4518.55"
+        font-family="monospace" font-size="13" fill="#222">-</text>
+        </g>
+                <g>
+                   <rect x="372" y="4560.5"
+            width="381" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>log.info(`Init room Memory for ${room.name}`)</title>
+            <text x="387" y="4580.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="387" y="4580.5">log.info(`Init room Memory for ${room.name}`)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="372" y="4609"
+            width="256.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>Memory.rooms[room.name] = {*}</title>
+            <text x="387" y="4629"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="387" y="4629">Memory.rooms[room.name] = {*}</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="372" y="4657.5"
+            width="365.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>RoomManager.initRoomMemory(room, room.name)</title>
+            <text x="387" y="4677.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="387" y="4677.5">RoomManager.initRoomMemory(room, room.name)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="813" y="4560.5"
+            width="225" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>RoomManager.run(room, rm)</title>
+            <text x="828" y="4580.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="828" y="4580.5">RoomManager.run(room, rm)</tspan>
+            </text>
+                   
+                   
+                </g><g>
+            <rect x="352" y="4722.5"
+            width="231.60000000000002" height="30"
+            rx="3" ry="3"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />                
+            <polygon points="322,4737.5 352,4707.5 382,4737.5 352,4767.5"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+            <title>(Game.time % 10 === 0)</title>
+            <text x="397" y="4742.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="397" y="4742.5">(Game.time % 10 === 0)</tspan>
+            </text>
+            
+            <text x="344.2" y="4742.5"
+        font-family="monospace" font-size="13" fill="#222">if</text> <text x="359.8" y="4769.45"
+        font-family="monospace" font-size="13" fill="#222">+</text> 
+        </g>
+                <g>
+                   <rect x="372" y="4777.5"
+            width="318.59999999999997" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>RoomManager.cleanupAssignedMiners(rm)</title>
+            <text x="387" y="4797.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="387" y="4797.5">RoomManager.cleanupAssignedMiners(rm)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="272" y="4827.5"
+            width="154.8" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>Tools.log_info()</title>
+            <text x="287" y="4847.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="287" y="4847.5">Tools.log_info()</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="272" y="4876"
+            width="295.2" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>Tools.ClearNonExistingCreeMemory()</title>
+            <text x="287" y="4896"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="287" y="4896">Tools.ClearNonExistingCreeMemory()</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="272" y="4924.5"
+            width="256.2" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>StatsManager.runForAllRooms()</title>
+            <text x="287" y="4944.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="287" y="4944.5">StatsManager.runForAllRooms()</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+               <rect x="25" y="13.75"
+            width="216.6" height="24"
+            style="fill:#fff59d; stroke:#444; stroke-width:1" />
+               <circle cx="25" cy="25" r="15"
+        style="fill:#fff59d; stroke:#444; stroke-width:1" />
+               <title>Program: source module</title>
+            <text x="55" y="30"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="55" y="30">Program: source module</tspan>
+            </text>
+            </g>
+            <g>
+               <path d="M25, 40 L25 76 Q25 80
+                29 80
+                L42 80 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 77 L50, 80 L42, 83 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 139.5 Q25 143.5
+                29 143.5
+                L42 143.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 140.5 L50, 143.5 L42, 146.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 158.5 L68.5 188 Q68.5 192
+                72.5 192
+                L87 192 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M25, 40 L25 251.5 Q25 255.5
+                29 255.5
+                L42 255.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 252.5 L50, 255.5 L42, 258.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 270.5 L68.5 300 Q68.5 304
+                72.5 304
+                L79 304 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 301 L87, 304 L79, 307 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 363.5 Q25 367.5
+                29 367.5
+                L42 367.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 364.5 L50, 367.5 L42, 370.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 382.5 L68.5 412 Q68.5 416
+                72.5 416
+                L87 416 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M25, 40 L25 475.5 Q25 479.5
+                29 479.5
+                L42 479.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 476.5 L50, 479.5 L42, 482.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 494.5 L68.5 524 Q68.5 528
+                72.5 528
+                L79 528 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 525 L87, 528 L79, 531 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 587.5 Q25 591.5
+                29 591.5
+                L42 591.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 588.5 L50, 591.5 L42, 594.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 606.5 L68.5 636 Q68.5 640
+                72.5 640
+                L87 640 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M25, 40 L25 699.5 Q25 703.5
+                29 703.5
+                L42 703.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 700.5 L50, 703.5 L42, 706.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 718.5 L68.5 748 Q68.5 752
+                72.5 752
+                L87 752 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M25, 40 L25 811.5 Q25 815.5
+                29 815.5
+                L42 815.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 812.5 L50, 815.5 L42, 818.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 830.5 L68.5 860 Q68.5 864
+                72.5 864
+                L79 864 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 861 L87, 864 L79, 867 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 923.5 Q25 927.5
+                29 927.5
+                L42 927.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 924.5 L50, 927.5 L42, 930.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 942.5 L68.5 972 Q68.5 976
+                72.5 976
+                L87 976 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M25, 40 L25 1035.5 Q25 1039.5
+                29 1039.5
+                L42 1039.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1036.5 L50, 1039.5 L42, 1042.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1054.5 L68.5 1084 Q68.5 1088
+                72.5 1088
+                L87 1088 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M68.5, 1054.5 L68.5 1132.5 Q68.5 1136.5
+                72.5 1136.5
+                L87 1136.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M25, 40 L25 1196 Q25 1200
+                29 1200
+                L42 1200 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1197 L50, 1200 L42, 1203 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1215 L68.5 1244.5 Q68.5 1248.5
+                72.5 1248.5
+                L79 1248.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 1245.5 L87, 1248.5 L79, 1251.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1308 Q25 1312
+                29 1312
+                L42 1312 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1309 L50, 1312 L42, 1315 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1327 L68.5 1356.5 Q68.5 1360.5
+                72.5 1360.5
+                L79 1360.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 1357.5 L87, 1360.5 L79, 1363.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1420 Q25 1424
+                29 1424
+                L42 1424 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1421 L50, 1424 L42, 1427 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1439 L68.5 1468.5 Q68.5 1472.5
+                72.5 1472.5
+                L79 1472.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 1469.5 L87, 1472.5 L79, 1475.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1532 Q25 1536
+                29 1536
+                L42 1536 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1533 L50, 1536 L42, 1539 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1551 L68.5 1580.5 Q68.5 1584.5
+                72.5 1584.5
+                L87 1584.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M25, 40 L25 1644 Q25 1648
+                29 1648
+                L42 1648 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1645 L50, 1648 L42, 1651 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1663 L68.5 1692.5 Q68.5 1696.5
+                72.5 1696.5
+                L87 1696.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M25, 40 L25 1741 Q25 1745
+                29 1745
+                L42 1745 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1742 L50, 1745 L42, 1748 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1789.5 Q25 1793.5
+                29 1793.5
+                L42 1793.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1790.5 L50, 1793.5 L42, 1796.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1838 Q25 1842
+                29 1842
+                L42 1842 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1839 L50, 1842 L42, 1845 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1886.5 Q25 1890.5
+                29 1890.5
+                L42 1890.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1887.5 L50, 1890.5 L42, 1893.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1950 Q25 1954
+                29 1954
+                L42 1954 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1951 L50, 1954 L42, 1957 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M80, 1984 L80 2005 Q80 2009
+                84 2009
+                L92 2009 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M92, 2006 L100, 2009 L92, 2012 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M80, 1984 L80 2053.5 Q80 2057.5
+                84 2057.5
+                L92 2057.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M92, 2054.5 L100, 2057.5 L92, 2060.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 2118.5 Q25 2122.5
+                29 2122.5
+                L42 2122.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 2119.5 L50, 2122.5 L42, 2125.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 2137.5 L68.5 2167 Q68.5 2171
+                72.5 2171
+                L79 2171 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 2168 L87, 2171 L79, 2174 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 2137.5 L68.5 2250.5 Q68.5 2254.5
+                72.5 2254.5
+                L79 2254.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 2251.5 L87, 2254.5 L79, 2257.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M117, 2284.5 L117 2320.5 Q117 2324.5
+                121 2324.5
+                L129 2324.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M129, 2321.5 L137, 2324.5 L129, 2327.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M406.4, 2324.5 L422.4 2324.5  Q426.4 2324.5
+                426.4 2320.5
+                L426.4 2212.5 Q426.4 2204.5
+                422.4 2204.5
+                L125 2204.5  Q117 2204.5
+                117 2208.5
+                L117 2216.5"
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M114, 2216.5 L117, 2224.5 L120, 2216.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 2137.5 L68.5 2420.5 Q68.5 2424.5
+                72.5 2424.5
+                L79 2424.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 2421.5 L87, 2424.5 L79, 2427.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M117, 2454.5 L117 2490.5 Q117 2494.5
+                121 2494.5
+                L129 2494.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M129, 2491.5 L137, 2494.5 L129, 2497.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M414.2, 2494.5 L430.2 2494.5  Q434.2 2494.5
+                434.2 2490.5
+                L434.2 2382.5 Q434.2 2374.5
+                430.2 2374.5
+                L125 2374.5  Q117 2374.5
+                117 2378.5
+                L117 2386.5"
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M114, 2386.5 L117, 2394.5 L120, 2386.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 2137.5 L68.5 2590.5 Q68.5 2594.5
+                72.5 2594.5
+                L79 2594.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 2591.5 L87, 2594.5 L79, 2597.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M117, 2624.5 L117 2660.5 Q117 2664.5
+                121 2664.5
+                L129 2664.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M129, 2661.5 L137, 2664.5 L129, 2667.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M414.2, 2664.5 L430.2 2664.5  Q434.2 2664.5
+                434.2 2660.5
+                L434.2 2552.5 Q434.2 2544.5
+                430.2 2544.5
+                L125 2544.5  Q117 2544.5
+                117 2548.5
+                L117 2556.5"
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M114, 2556.5 L117, 2564.5 L120, 2556.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 2137.5 L68.5 2760.5 Q68.5 2764.5
+                72.5 2764.5
+                L79 2764.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 2761.5 L87, 2764.5 L79, 2767.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M117, 2794.5 L117 2830.5 Q117 2834.5
+                121 2834.5
+                L129 2834.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M129, 2831.5 L137, 2834.5 L129, 2837.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M406.4, 2834.5 L422.4 2834.5  Q426.4 2834.5
+                426.4 2830.5
+                L426.4 2722.5 Q426.4 2714.5
+                422.4 2714.5
+                L125 2714.5  Q117 2714.5
+                117 2718.5
+                L117 2726.5"
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M114, 2726.5 L117, 2734.5 L120, 2726.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 2137.5 L68.5 2895.5 Q68.5 2899.5
+                72.5 2899.5
+                L79 2899.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 2896.5 L87, 2899.5 L79, 2902.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 2137.5 L68.5 2944 Q68.5 2948
+                72.5 2948
+                L79 2948 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 2945 L87, 2948 L79, 2951 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 2137.5 L68.5 2992.5 Q68.5 2996.5
+                72.5 2996.5
+                L79 2996.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 2993.5 L87, 2996.5 L79, 2999.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 2137.5 L68.5 3041 Q68.5 3045
+                72.5 3045
+                L79 3045 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 3042 L87, 3045 L79, 3048 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 2137.5 L68.5 3089.5 Q68.5 3093.5
+                72.5 3093.5
+                L79 3093.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 3090.5 L87, 3093.5 L79, 3096.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 3138 Q25 3142
+                29 3142
+                L42 3142 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 3139 L50, 3142 L42, 3145 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 3186.5 Q25 3190.5
+                29 3190.5
+                L42 3190.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 3187.5 L50, 3190.5 L42, 3193.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 3235 Q25 3239
+                29 3239
+                L42 3239 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 3236 L50, 3239 L42, 3242 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 3283.5 Q25 3287.5
+                29 3287.5
+                L42 3287.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 3284.5 L50, 3287.5 L42, 3290.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 3347 Q25 3351
+                29 3351
+                L42 3351 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 3348 L50, 3351 L42, 3354 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 3366 L68.5 3395.5 Q68.5 3399.5
+                72.5 3399.5
+                L79 3399.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 3396.5 L87, 3399.5 L79, 3402.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 3414.5 L105.5 3444 Q105.5 3448
+                109.5 3448
+                L116 3448 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 3445 L124, 3448 L116, 3451 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M142.5, 3463 L142.5 3492.5 Q142.5 3496.5
+                146.5 3496.5
+                L161 3496.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M179.5, 3511.5 L179.5 3541 Q179.5 3545
+                183.5 3545
+                L190 3545 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M190, 3542 L198, 3545 L190, 3548 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M216.5, 3560 L216.5 3589.5 Q216.5 3593.5
+                220.5 3593.5
+                L235 3593.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M253.5, 3608.5 L253.5 3638 Q253.5 3642
+                257.5 3642
+                L264 3642 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M264, 3639 L272, 3642 L264, 3645 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M253.5, 3608.5 L253.5 3701.5 Q253.5 3705.5
+                257.5 3705.5
+                L264 3705.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M264, 3702.5 L272, 3705.5 L264, 3708.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M302, 3735.5 L302 3756.5 Q302 3760.5
+                306 3760.5
+                L314 3760.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M314, 3757.5 L322, 3760.5 L314, 3763.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M302, 3735.5 L302 3805 Q302 3809
+                306 3809
+                L314 3809 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M314, 3806 L322, 3809 L314, 3812 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M302, 3735.5 L302 3853.5 Q302 3857.5
+                306 3857.5
+                L314 3857.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M314, 3854.5 L322, 3857.5 L314, 3860.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M253.5, 3608.5 L253.5 3918.5 Q253.5 3922.5
+                257.5 3922.5
+                L264 3922.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M264, 3919.5 L272, 3922.5 L264, 3925.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M302, 3952.5 L302 3973.5 Q302 3977.5
+                306 3977.5
+                L314 3977.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M314, 3974.5 L322, 3977.5 L314, 3980.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M302, 3952.5 L302 4022 Q302 4026
+                306 4026
+                L314 4026 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M314, 4023 L322, 4026 L314, 4029 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M302, 3952.5 L302 4070.5 Q302 4074.5
+                306 4074.5
+                L314 4074.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M314, 4071.5 L322, 4074.5 L314, 4077.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M340.5, 4089.5 L340.5 4119 Q340.5 4123
+                344.5 4123
+                L351 4123 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M351, 4120 L359, 4123 L351, 4126 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M253.5, 3608.5 L253.5 4204 Q253.5 4208
+                257.5 4208
+                L264 4208 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M264, 4205 L272, 4208 L264, 4211 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M302, 4238 L302 4259 Q302 4263
+                306 4263
+                L314 4263 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M314, 4260 L322, 4263 L314, 4266 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M340.5, 4278 L340.5 4307.5 Q340.5 4311.5
+                344.5 4311.5
+                L351 4311.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M351, 4308.5 L359, 4311.5 L351, 4314.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M302, 4238 L302 4356 Q302 4360
+                306 4360
+                L314 4360 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M314, 4357 L322, 4360 L314, 4363 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M340.5, 4375 L340.5 4404.5 Q340.5 4408.5
+                344.5 4408.5
+                L351 4408.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M351, 4405.5 L359, 4408.5 L351, 4411.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M340.5, 4375 L340.5 4453 Q340.5 4457
+                344.5 4457
+                L351 4457 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M351, 4454 L359, 4457 L351, 4460 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M302, 4238 L302 4516.5 Q302 4520.5
+                306 4520.5
+                L314 4520.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M314, 4517.5 L322, 4520.5 L314, 4523.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M352, 4550.5 L352 4571.5 Q352 4575.5
+                356 4575.5
+                L364 4575.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M364, 4572.5 L372, 4575.5 L364, 4578.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M352, 4550.5 L352 4620 Q352 4624
+                356 4624
+                L364 4624 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M364, 4621 L372, 4624 L364, 4627 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M352, 4550.5 L352 4668.5 Q352 4672.5
+                356 4672.5
+                L364 4672.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M364, 4669.5 L372, 4672.5 L364, 4675.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M552.4, 4520.5 L789 4520.5  Q793 4520.5
+                793 4524.5
+                L793 4567.5 Q793 4575.5
+                797 4575.5
+                L805 4575.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M805, 4572.5 L813, 4575.5 L805, 4578.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M302, 4238 L302 4733.5 Q302 4737.5
+                306 4737.5
+                L314 4737.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M314, 4734.5 L322, 4737.5 L314, 4740.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M352, 4767.5 L352 4788.5 Q352 4792.5
+                356 4792.5
+                L364 4792.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M364, 4789.5 L372, 4792.5 L364, 4795.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M690.5999999999999, 4792.5 L1054 4792.5  Q1058 4792.5
+                1058 4788.5
+                L1058 4166 Q1058 4158
+                1054 4158
+                L310 4158  Q302 4158
+                302 4162
+                L302 4170"
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M299, 4170 L302, 4178 L305, 4170 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M253.5, 3608.5 L253.5 4838.5 Q253.5 4842.5
+                257.5 4842.5
+                L264 4842.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M264, 4839.5 L272, 4842.5 L264, 4845.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M253.5, 3608.5 L253.5 4887 Q253.5 4891
+                257.5 4891
+                L264 4891 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M264, 4888 L272, 4891 L264, 4894 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M253.5, 3608.5 L253.5 4935.5 Q253.5 4939.5
+                257.5 4939.5
+                L264 4939.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M264, 4936.5 L272, 4939.5 L264, 4942.5 Z" 
+        fill="#333" />
+            </g>
+            </svg>
