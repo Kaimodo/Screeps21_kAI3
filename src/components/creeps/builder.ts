@@ -19,11 +19,13 @@ export class Builder {
         if (creepMem.assignedContainerId === undefined) {
             creepMem.assignedContainerId = RoomManager.getContainerIdWithLeastBuildersAssigned(room, roomMem);
         }
+        const offset = Number(creep.name.slice(-1)) % 2 === 0 ? 1 : -1;
+
         room.visual.text(
             `🛠️`,
             creep.pos.x,
-            creep.pos.y,
-            { align: "center", opacity: 0.8 });
+            creep.pos.y + offset,
+            { align: "left", opacity: 0.8 });
 
         if (creepMem.assignedContainerId === undefined) {
             log.error(`${Mem.l(creepMem)}not assigned to container`);

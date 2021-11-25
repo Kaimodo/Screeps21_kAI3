@@ -18,6 +18,9 @@
 # Screeps Config
 screeps.json
 
+# True
+**True
+
 /Screeps-Visual.html
 
 # ScreepsServer data from integration tests
